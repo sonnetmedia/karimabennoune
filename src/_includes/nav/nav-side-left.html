@@ -1,0 +1,17 @@
+<aside class="sidebar-left">
+  <h1><a href="{{site.baseurl}}">{{site.sitename}}</a></h1>
+  <hr />  
+  {% include nav/navigation.html %}
+  <hr />
+
+{% for book in site.collections.books %}
+
+
+{{ book.title }}
+
+{% endfor %}
+
+
+
+</aside>
+<!-- /aside left -->    
