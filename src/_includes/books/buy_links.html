@@ -11,54 +11,69 @@
    }
 </script>
 
-{% if page.isbn %}
+{% capture isbn %}{{ include.isbn }}{% endcapture %}
+
   
 
-<button class="pure-button button button-rounded button-flat-primary btn" onclick="toggleShowHide()">Buy <em>{{page.title}}</em></button>
+<button class="pure-button button button-rounded button-flat-primary btn" onclick="toggleShowHide()">Buy</button>
   <div id="buy-buttons" class="list-block hidden" style="display:none;">
     <ul class="buy-retailers small">
-      <div id='isbn10_{{ page.isbn }}'></div><!--  pulls in 10 digit ASIN for amazon from script -->
+      <div id='isbn10_{{ isbn }}'></div><!--  pulls in 10 digit ASIN for amazon from script -->
   <li>
-    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ page.isbn }}" target="_blank" >
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ isbn }}" target="_blank" >
       Barnes &amp; Noble
     </a>
   </li>
   <li>
-    <a href="http://www.powells.com/biblio?isbn={{ page.isbn }}" target="_blank" >
+    <a href="http://www.powells.com/biblio?isbn={{ isbn }}" target="_blank" >
       Powells
     </a>
   </li>  
   <li>
-    <a href="http://www.indiebound.org/product/info.jsp?isbn={{ page.isbn }}" target="_blank" >
+    <a href="http://www.indiebound.org/product/info.jsp?isbn={{ isbn }}" target="_blank" >
         Your Local Bookstore
     </a>
   </li>  
 </ul>
+
+
+
+{% comment %}
+
+{% if book.isbn_digital or book.asin_kindle %}
+    <ul class="buy-retailers small">
+      <li><small>Digital Editions</small></li>
+        {% if book.asin_kindle %}
+          <li>
+            <a href="http://www.amazon.com/dp/{{ book.asin_kindle }}" target="_blank" >
+              Amazon Kindle
+            </a>
+          </li>
+        {% endif %}
+        
+        {% if book.isbn_digital %}
+          <li>
+            <a href="http://itunes.apple.com/us/book/isbn{{ book.isbn_digital }}" target="_blank" >
+              Apple iBooks
+            </a>
+          </li>
+          <li>
+            <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ book.isbn_digital }}" target="_blank" >
+              Barnes &amp; Noble Nook
+            </a>
+          </li>
+    {% endif %}
+    </ul>
 {% endif %}
-{% if page.isbn_digital or page.asin_kindle %}
-<ul class="buy-retailers small">
-  <li><small>Digital Editions</small></li>
-{% if page.asin_kindle %}
-  <li>
-    <a href="http://www.amazon.com/dp/{{ page.asin_kindle }}" target="_blank" >
-      Amazon Kindle
-    </a>
-  </li>
-{% endif %}
-{% if page.isbn_digital %}
-  <li>
-    <a href="http://itunes.apple.com/us/book/isbn{{ page.isbn_digital }}" target="_blank" >
-      Apple iBooks
-    </a>
-  </li>
-  <li>
-    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ page.isbn_digital }}" target="_blank" >
-      Barnes &amp; Noble Nook
-    </a>
-  </li>
-</ul>
-{% endif %}
-{% endif %}
+
+{% endcomment %}
+
+
+
+
+
+
+
 </div>
     <script type="text/javascript">
       function ISBN13toISBN10(isbn13) {
@@ -80,5 +95,5 @@
     }
     return start + checkDig;
 }
-document.getElementById("isbn10_{{ page.isbn }}").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('{{ page.isbn }}') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
+document.getElementById("isbn10_{{ isbn }}").innerHTML='<li><a href="http://www.amazon.com/dp/' + ISBN13toISBN10('{{ isbn }}') +'" title="Amazon" target="_blank" >Amazon.com</a></li>';
 </script>

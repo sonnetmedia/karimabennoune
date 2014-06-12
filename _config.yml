@@ -41,6 +41,7 @@ disqus_id:
 addthis_id:
 # CONTACT FORM http://getsimpleform.com/
 simple_form_api_token:
+directory_assets_img: /assets/img/
 
 # options (social)
 # facebook_id:

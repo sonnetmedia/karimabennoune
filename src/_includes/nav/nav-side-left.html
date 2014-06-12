@@ -4,11 +4,15 @@
   {% include nav/navigation.html %}
   <hr />
 
-{% for book in site.collections.books %}
+{% for book in site.books %}
 
 
-{{ book.title }}
 
+{% include books/buy_links.html isbn="9780393081589" %}
+
+{% if book.cover_image %}
+<img src="{{site.directory_assets_img}}{{book.cover_image}}" style="max-width:90%;">
+{% endif %}
 {% endfor %}
 
 

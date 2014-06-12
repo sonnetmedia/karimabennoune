@@ -1,5 +1,5 @@
 ---
-book_cover_image: cover-Your-Fatwa-Does-Not-Apply-Here.jpg
+cover_image: cover-Your-Fatwa-Does-Not-Apply-Here.jpg
 title: Your Fatwa Does Not Apply Here
 meta_desc: >
   Untold Stories from the Fight against
@@ -8,6 +8,7 @@ _template: books
 subtitle: >
   Untold Stories from the Fight against
   Muslim Fundamentalism
+isbn: 9780393081589
 the_grid:
   - 
     format: Hardcover
