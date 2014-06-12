@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Articles
-permalink: /articles/
+layout: page
 include: "snippets/news.html"
+category: articles
 sharing: false
 published: true
 ---

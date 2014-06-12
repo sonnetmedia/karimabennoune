@@ -1,8 +1,8 @@
 ---
+title: Journal
 layout: page
-title: Archive
-permalink: /journal/
 include: "snippets/news.html"
+category: journal
 sharing: false
 published: true
 ---

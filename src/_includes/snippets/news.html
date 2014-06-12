@@ -1,5 +1,10 @@
+{% capture item_category %}{{page.category}}{% endcapture %}
+{% assign news_cat = site.categories[item_category] %}
+
+
+
 <div class="list">
-	{% for news in site.posts limit:250 %}
+	{% for news in news_cat %}	
 		<h5 class="title">
 			<a href="{{ news.url }}">
 				{{ news.title }}
@@ -11,4 +16,5 @@
 	</h5>
 		<hr />
 	{% endfor %}
+	
 </div>
