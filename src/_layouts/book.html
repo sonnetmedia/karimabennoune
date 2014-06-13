@@ -1,0 +1,30 @@
+---
+layout: default
+section: book
+---
+<article class="hentry page-content">
+	<div class="row">
+		{% include books/related-review.html show="1" %}
+	</div>
+	{% if page.title %}
+		<header>
+			<h1 class="page-title">
+				{{page.title}} 
+			</h1>
+			{% if page.subtitle %}
+				<h2>
+					{{page.subtitle}}
+				</h2>
+			{% endif %}
+		</header>
+	{% endif %}
+	<section class="books">
+		<article>
+			{{ content }}
+		</article>
+	</section>
+	<div id="reviews" class="row">
+		<h3>Praise for <em>{{page.title}}</em></h3>
+		{% include books/related-reviews.html show="100" offset="1" %}
+	</div>
+</article>

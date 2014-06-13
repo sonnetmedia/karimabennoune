@@ -1,12 +1,15 @@
 -
- name: Articles
- slug: articles
--
  name: Journal
  slug: journal
 -
+ name: Articles
+ slug: articles
+-
  name: About Karima
  slug: about-karima
+- 
+ name: Contact
+ slug: contact 
 -
  name: About the Book
  slug: books/your-fatwa-does-not-apply-here

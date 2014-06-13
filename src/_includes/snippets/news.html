@@ -1,20 +1,32 @@
 {% capture item_category %}{{page.category}}{% endcapture %}
 {% assign news_cat = site.categories[item_category] %}
 
-
-
 <div class="list">
 	{% for news in news_cat %}	
-		<h5 class="title">
-			<a href="{{ news.url }}">
-				{{ news.title }}
-			</a>
-		<br />
-		<small>
-			{{ news.date | date: "%B %d, %Y" }}
+		<h5 class="title" style="width:100%;clear:both;">
+			<a href="{{ news.url }}">{{ news.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+			<br />
+			<small>
+				{{ news.date | date: "%B %d, %Y" }}
+			</small>
+		</h5>
+		
+	{% if news.summary %}
+		{{ news.summary | markdownify }}
+	{% else %}
+		{{ news.content | markdownify }}
+	{% endif %}
+
+	{% if news.source %}
+	<small>
+		{% if news.link_to_original %}
+			<a href="{{news.link_to_original}}">{{news.source}} <i class="icon-link"></i></a>
+		{% else %}
+		{{news.source}}
+		{% endif %}
 		</small>
-	</h5>
-		<hr />
-	{% endfor %}
-	
+	{% endif %}
+	<hr />
+{% endfor %}
 </div>
+{% comment %}TODO: ADD LINK ICON{% endcomment %}

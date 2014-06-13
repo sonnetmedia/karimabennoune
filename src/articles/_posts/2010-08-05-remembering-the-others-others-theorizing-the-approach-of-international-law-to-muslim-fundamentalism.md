@@ -3,8 +3,8 @@ title: "Remembering the Other's Others: Theorizing the Approach of International
 layout: article
 layout: article
 categories: Scholarly
-publisher: "Columbia Human Rights Law Review, Vol. 41, pp. 635-698, 2010; Rutgers School of Law-Newark Research Paper No. 075"
-publication_link: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1626026 
+source: "Columbia Human Rights Law Review, Vol. 41, pp. 635-698, 2010; Rutgers School of Law-Newark Research Paper No. 075"
+link_to_original: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1626026 
 ---
 
 [Abstract](/articles/remembering-the-others-others-theorizing-the-approach-of-international-law-to-muslim-fundamentalism)
