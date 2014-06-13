@@ -22,4 +22,4 @@
 button a {color: $light-gray;}
 ul.buy-retailers { margin-left: 0; text-align: center;padding: 0;}
 .buy-retailers li, .buy-retailers li a {color:$light-gray;list-style-type: none;line-height: 1.2;padding: .75em;}
-.buy-retailers li:hover, .buy-retailers li a:hover {background-color: lighten($brown,4%);color: #FFF;}
+.buy-retailers li:hover, .buy-retailers li a:hover {background-color: lighten($brown,4%);color: #FFF; @include transition (all 0.3s ease-in-out);}
