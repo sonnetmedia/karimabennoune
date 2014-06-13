@@ -1,19 +1,16 @@
 <aside class="sidebar-left">
   <h1><a href="{{site.baseurl}}" class="brand-tagline">{{site.sitename}}</a></h1>
   <hr />
-
+<div class="book-information">
 {% for book in site.categories.books %}
-
-
-
-{% include books/buy_links.html isbn="9780393081589" %}
-
+	{% include books/buy_links.html isbn="9780393081589" %}
+<hr />
 {% if book.cover_image %}
 <a href="{{book.url}}"><img src="{{site.directory_assets_img}}{{book.cover_image}}" style="max-width:90%;"></a>
 {% endif %}
 {% endfor %}
 
-
+</div>
 
 </aside>
 <!-- /aside left -->    

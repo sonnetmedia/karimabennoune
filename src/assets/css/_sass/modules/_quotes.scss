@@ -42,7 +42,7 @@ blockquote {
 //blockquote.review p {display:inline;} 
 //This is not optimal, inline could cause problems, but need this to make mdash stay on line with the source.
 blockquote.review {
-	font-size: $base-font-size * 1.4;
+	font-size: $base-font-size * 1.2;
 	line-height: 1.5;
 	border-left: none;
 	padding-left: 0;

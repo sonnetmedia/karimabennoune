@@ -11,8 +11,10 @@
 // BASIC MODULES
 @import "modules/article";
 @import "modules/navigation-side";
+@import "modules/font-icons";
 @import "modules/page-splash";
 @import "modules/quotes";
+@import "modules/buttons-pure";
 @import "modules/refills/nav-top";
 
 body {
@@ -31,3 +33,10 @@ h2.title {
 .content-list {
 	margin-top: 1em;
 }
+
+.book-information {display: none;}
+body.home .book-information, body.books .book-information {display: block;}
+
+@include media($medium-screen-up) {
+  	.book-information {display: block;}
+  }

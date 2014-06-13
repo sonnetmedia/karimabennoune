@@ -3,5 +3,33 @@
 	<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
 <script>window.jQuery || document.write('<script src="{{site.baseurl}}/assets/js/jquery.min.js" }}"><\/script>')</script>
 {% endif %}
-<script src="{{site.baseurl}}/assets/js/concatenate-scripts.js"></script>
 
+
+
+
+<script>
+$(document).ready(function() {
+  var menu = $('#navigation-menu');
+  var menuToggle = $('#js-mobile-menu');
+  var signUp = $('.sign-up');
+
+  $(menuToggle).on('click', function(e) {
+    e.preventDefault();
+    menu.slideToggle(function(){
+      if(menu.is(':hidden')) {
+        menu.removeAttr('style');
+      }
+    });
+  });
+
+  // underline under the active nav item
+  $(".nav .nav-link").click(function() {
+    $(".nav .nav-link").each(function() {
+      $(this).removeClass("active-nav-item");
+    });
+    $(this).addClass("active-nav-item");
+    $(".nav .more").removeClass("active-nav-item");
+  });
+});
+
+</script>

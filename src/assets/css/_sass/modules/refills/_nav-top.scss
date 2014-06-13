@@ -1,7 +1,7 @@
 header.navigation {
   $navigation-background: $light-gray;
   $navigation-color: transparentize(black, 0.3);
-  $navigation-color-hover: white;
+  $navigation-color-hover: black;
   $navigation-height: 49px;
   $navigation-nav-button-background: $base-accent-color;
   $navigation-nav-button-background-hover: lighten($navigation-background, 10);
@@ -11,15 +11,26 @@ header.navigation {
 
 
   @if $include-sidebar-left != false {
-    padding-left: $sidebar-width + 12%;
+    padding-left: $sidebar-width + 10%;
 }
 
-  background-color: $navigation-background;
-  border-bottom: 1px solid darken($navigation-background, 10);
+  
+  
   font-family: $sans-serif;
   height: $navigation-height;
   width: 100%;
   z-index: 999;
+
+  background-color: $brown;
+  border-bottom: 1px solid lighten($brown, 10);
+  
+    a {
+      color: $light-gray;
+    }
+    @include media($medium-screen-up) {
+      background-color: $navigation-background;
+      border-bottom: 1px solid darken($navigation-background, 10);
+    }
 
   .menu-wrapper {
     @include outer-container;
@@ -40,7 +51,7 @@ header.navigation {
   }
 
   .navigation-menu-button {
-    color: $navigation-color;
+    color: $light-gray;
     cursor: pointer;
     display: block;
     float: right;
@@ -88,7 +99,7 @@ header.navigation {
     display: block;
     line-height: $navigation-height;
     overflow: hidden;
-    padding-right: .8em;
+    //padding-right: .8em; remove because we're using pill style on hover
     text-align: right;
     width: 100%;
     z-index: 9999;
@@ -99,7 +110,7 @@ header.navigation {
       background: transparent;
       display: inline;
       line-height: $navigation-height;
-      padding-right: 2em;
+      padding-right: 1em;
       text-decoration: none;
       width: auto;
     }
@@ -107,12 +118,23 @@ header.navigation {
     a {
       font-weight: 400;
       color: $navigation-color;
+      padding: .3em .7em;
+      border-radius: 4px;
 
       &:hover {
         color: $navigation-color-hover;
+        background-color: darken($navigation-background, 10%);
+        @include transition (all 0.3s ease-in-out);
       }
     }
+
+
+
   }
+
+  li.active a {
+      color: $heading-color;
+    }
 
   .sign-up {
     @include media ($large-screen) {
@@ -120,7 +142,7 @@ header.navigation {
       padding-right: 1em;
 
       a {
-        @include transition (all 0.2s ease-in-out);
+        @include transition (all 0.5s ease-in-out);
         background: $navigation-nav-button-background;
         border-radius: $base-border-radius; 
         color: white;

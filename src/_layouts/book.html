@@ -20,9 +20,15 @@ section: book
 	{% endif %}
 	<section class="books">
 		<article>
+		{% if page.excerpt_link %}
+			<button><a href="{{page.excerpt_link}}" class="button">read an excerpt</a></button>
+			<hr />
+		{% endif %}
+
 			{{ content }}
 		</article>
 	</section>
+	<hr />
 	<div id="reviews" class="row">
 		<h3>Praise for <em>{{page.title}}</em></h3>
 		{% include books/related-reviews.html show="100" offset="1" %}

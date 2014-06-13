@@ -4,6 +4,7 @@ name: your-fatwa-does-not-apply-here
 permalink: /books/your-fatwa-does-not-apply-here/
 title: Your Fatwa Does Not Apply Here
 layout: book
+excerpt_link: '/journal/2013/06/12/excerpt-from-your-fatwa-does-not-apply-here/'
 meta_desc: "Untold Stories from the Fight against Muslim Fundamentalism"
 subtitle: "Untold Stories from the Fight against Muslim Fundamentalism"
 isbn: 9780393081589
@@ -35,17 +36,4 @@ Despite their courage and creativity, and the urgency of their efforts, this glo
 </p>
 <p>
 Increasingly frustrated with the stagnant, politicized public dialogue about the “clash of civilizations,” Karima Bennoune, an international human-rights lawyer, professor and activist, set out on an epic journey to change the conversation. She interviewed nearly 300 people from almost 30 countries, from Afghanistan to Mali and beyond. A veteran of twenty years of human rights research and activism, Bennoune draws on this extensive fieldwork and interviews to illuminate the inspiring stories of those who represent one of the best hopes for ending fundamentalist oppression worldwide.
-</p>
-<p>
-<em>  For events and press, please contact</em>
-</p>
-<p>
-<em>  W. W. Norton &amp; Company, Inc.<br>
-500 Fifth Avenue<br>
-New York, New York 10110<br>
-Tel: <span id="gc-number-0" class="gc-cs-link" title="Call with Google Voice">(212) 354-5500</span><br>
-Fax: <span id="gc-number-1" class="gc-cs-link" title="Call with Google Voice">(212) 869-0856</span></em>
-</p>
-<p>
-<em>  To request a review copy or place an order, please contact the Norton Service Center at (800) 233-4830.</em>
 </p>
