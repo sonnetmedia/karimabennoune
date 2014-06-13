@@ -16,9 +16,10 @@
 @import "modules/quotes";
 @import "modules/buttons-pure";
 @import "modules/refills/nav-top";
+@import "modules/sharing";
 
 body {
-	background-color: #fdfdfc;
+	background-color: #f2f1ed;
 }
 
 a.brand-tagline {
@@ -49,17 +50,7 @@ body.home .book-information, body.books .book-information {display: block;}
  	max-width: 100%;
  } 
 
+ body.home small {
+ 	font-weight: bold;
+ }
 
-.addthis_sharing_toolbox {
-	display: none;
-
-	@include media($medium-screen-up) {
-  		display: block;
-  		position: fixed;
-		bottom:4px;
-		left:6em;
-  }
-
-
-	
-}

@@ -1,6 +1,6 @@
 header.navigation {
-  $navigation-background: $light-gray;
-  $navigation-color: transparentize(black, 0.3);
+  $navigation-background: $light-red;//#FFF;//#f4f3f0;//$light-gray;
+  $navigation-color: transparentize(white, 0.3);
   $navigation-color-hover: black;
   $navigation-height: 49px;
   $navigation-nav-button-background: $base-accent-color;
@@ -134,6 +134,8 @@ header.navigation {
 
   li.active a {
       color: $heading-color;
+      color: darken($navigation-color, 5%);
+      background-color: darken($navigation-background, 4%);
     }
 
   .sign-up {
