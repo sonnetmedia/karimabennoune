@@ -1,5 +1,7 @@
 ---
 ---
+
+@import url(http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic);
 @import "libs/normalize";
 @import "libs/bourbon/bourbon";
 @import "bitters/bitters";
@@ -10,3 +12,22 @@
 @import "modules/article";
 @import "modules/navigation-side";
 @import "modules/page-splash";
+@import "modules/quotes";
+@import "modules/refills/nav-top";
+
+body {
+	background-color: #fdfdfc;
+}
+
+a.brand-tagline {
+    font-weight: 300;
+    color: #addaec;//rgb(142, 142, 214);
+}
+
+h2.title {
+	margin-top: 2em;
+}
+
+.content-list {
+	margin-top: 1em;
+}

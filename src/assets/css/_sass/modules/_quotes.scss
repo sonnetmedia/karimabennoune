@@ -1,7 +1,7 @@
 blockquote {
   //@extend .as-heading__normal;
-  padding: 2em;
-  color: lighten($base-color, 18%);
+  //padding: 2em;
+  //color: lighten($base-color, 18%);
 }
 
 ////  QUOTES
@@ -39,7 +39,18 @@ blockquote {
 // //  content:"— ";
 //}
 
-blockquote.review p {display:inline;} 
+//blockquote.review p {display:inline;} 
 //This is not optimal, inline could cause problems, but need this to make mdash stay on line with the source.
-blockquote.review .quote p:before {content:'“';}
-blockquote.review .quote p:after {content:'”';}
+blockquote.review {
+	font-size: $base-font-size * 1.4;
+	line-height: 1.5;
+	border-left: none;
+	padding-left: 0;
+}
+blockquote.review small {
+	font-size: .9rem;
+	clear: both;
+}
+blockquote.review small:before {content: '\A— ';white-space: pre; /* or pre-wrap */}
+blockquote.review .quote:before {content:'“'; font-family: $serif;}
+blockquote.review .quote:after {content:'”'; font-family: $serif;}

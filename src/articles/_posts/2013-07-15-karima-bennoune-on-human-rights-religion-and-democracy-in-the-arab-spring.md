@@ -4,5 +4,5 @@ layout: article
 categories: Interview
 source: Marginalia Review of Books
 link_to_original: http://themarginaliareview.com/archives/3178
-summary: "What is democracy? MRB interviews Karima Bennoune
-  ---
+---
+What is democracy? MRB interviews Karima Bennoune.

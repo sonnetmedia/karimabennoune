@@ -48,12 +48,12 @@ directory_assets_img: /assets/img/
 twitter_id: budparr
 
 # navigation options - effects layout/default. May also need options set in sass files
-include_nav-top: false
+include_nav-top: true
 include_nav-side-left: true
 include_nav-side-right: false
 
 sass:
-    style: :expanded
+    style: :compressed
     sass_dir: assets/css/_sass
 
 collections:

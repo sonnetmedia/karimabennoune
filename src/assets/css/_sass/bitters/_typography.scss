@@ -9,16 +9,20 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $header-font-family;
   line-height: 1.25em;
+  color: $heading-color;
   margin: 0;
   text-rendering: optimizeLegibility; // Fix the character spacing for headings
 }
 
 h1 {
   font-size: $base-font-size * 2.25; // 16 * 2.25 = 36px
+  font-weight: 300;
+  text-transform: uppercase;
 }
 
 h2 {
   font-size: $base-font-size * 2; // 16 * 2 = 32px
+  font-weight: 300;
 }
 
 h3 {
@@ -101,4 +105,14 @@ cite {
   &:before {
     content: '\2014 \00A0';
   }
+}
+
+small {
+  font-family: $sans-serif;
+}
+
+.subtitle {
+  font-size: 1.3em;
+  color: $base-accent-color;
+  margin-bottom: 1em;
 }

@@ -5,3 +5,7 @@ section: alt
 <article class="hentry">
 {{content}}
 </article>
+{% if page.include %}
+      {% include {{page.include}} %}
+    {% endif %}
+  

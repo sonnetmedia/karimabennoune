@@ -5,6 +5,9 @@
  name: Articles
  slug: articles
 -
+ name: Appearances
+ slug: appearances
+-
  name: About Karima
  slug: about-karima
 - 

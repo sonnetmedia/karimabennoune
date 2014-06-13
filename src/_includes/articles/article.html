@@ -1,7 +1,7 @@
 <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
   <header>
     {% if page.title %}
-    <h1 class="entry-title">{{page.title}}</h1>
+    <h1 class="entry-title">{{page.title | markdownify | remove: '<p>' | remove: '</p>'  }}</h1>
     {% endif %}
     {% if page.subtitle %}
     <h2>
@@ -18,8 +18,6 @@
   </header>
 {% comment %}Content Below{% endcomment %}
   <div class="entry-content prose">
-
-    
     {{ content }}
     {% if page.include %}
       {% include {{page.include}} %}
@@ -30,12 +28,5 @@
       {% include articles/sharing.html %}
     </div>
   {% endif %}
-
-    {% if page.url contains '/article/' %}
-    {% include articles/comments-twitter.html %}
-      {% include global/license-creative-commons.html %}
-    {% endif %}
     {% include global/edit.html %}
-
-
 </article>
