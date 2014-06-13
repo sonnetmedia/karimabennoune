@@ -3,6 +3,7 @@ cover_image: cover-Your-Fatwa-Does-Not-Apply-Here.jpg
 name: your-fatwa-does-not-apply-here
 permalink: /books/your-fatwa-does-not-apply-here/
 title: Your Fatwa Does Not Apply Here
+video_embed: //www.youtube.com/embed/XLi6iYnnsGc?rel=0
 layout: book
 excerpt_link: '/journal/2013/06/12/excerpt-from-your-fatwa-does-not-apply-here/'
 meta_desc: "Untold Stories from the Fight against Muslim Fundamentalism"

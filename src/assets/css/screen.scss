@@ -40,3 +40,26 @@ body.home .book-information, body.books .book-information {display: block;}
 @include media($medium-screen-up) {
   	.book-information {display: block;}
   }
+
+ body.home article {
+ 	
+ 	width:750px;
+ 	margin:auto;
+ 	padding: 0 1em 4em 1em;
+ 	max-width: 100%;
+ } 
+
+
+.addthis_sharing_toolbox {
+	display: none;
+
+	@include media($medium-screen-up) {
+  		display: block;
+  		position: fixed;
+		bottom:4px;
+		left:6em;
+  }
+
+
+	
+}

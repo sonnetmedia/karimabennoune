@@ -1,8 +1,8 @@
 {% assign books = site.categories.books %}
 {% assign reviews = site.data.reviews limit: 1 | where: 'featured_home', true %}
-<article class="" style="padding-top:0;width:750px;margin:auto;">
-{% for book in books %}
-<header>
+<article>
+	{% for book in books %}
+		<header>
 			<h1 class="page-title">
 				{{book.title}} 
 			</h1>
@@ -12,21 +12,14 @@
 				</h2>
 			{% endif %}
 		</header>
-{% endfor %}
-
-  {% for review in reviews %}  
-    
-    	
-      
-      
-        {% include books/format-reviews.html %}
-      
-    
-    
-  {% endfor %}
-
-
-<hr />
-<iframe width="640" height="360" src="//www.youtube.com/embed/XLi6iYnnsGc?rel=0" frameborder="0" allowfullscreen></iframe>
-
+	{% endfor %}
+	{% for review in reviews %}  
+		{% include books/format-reviews.html %}
+	{% endfor %}
+	{% for book in books %}
+		{% if book.video_embed %}
+			<hr />
+			<iframe width="640" height="360" style="max-width:100%;" src="{{book.video_embed}}" frameborder="0" allowfullscreen></iframe>
+		{% endif %}
+	{% endfor %}
 </article>
