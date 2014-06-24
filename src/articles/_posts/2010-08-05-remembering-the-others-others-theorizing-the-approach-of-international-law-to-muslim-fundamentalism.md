@@ -6,11 +6,6 @@ categories: Scholarly
 source: "Columbia Human Rights Law Review, Vol. 41, pp. 635-698, 2010; Rutgers School of Law-Newark Research Paper No. 075"
 link_to_original: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1626026 
 ---
-
-[Abstract](/articles/remembering-the-others-others-theorizing-the-approach-of-international-law-to-muslim-fundamentalism)
-
----
-
 Muslim fundamentalist movements pose major challenges to international law. Yet, the field of international law has failed to offer a significant response. 
 Seeking to provide simple counter-narratives to the admittedly problematic narratives of some governments in the context of the "war on terror", international lawyers have often omitted discussion of Muslim fundamentalism altogether. While Edward Said's notion of Orientalism may manifest in stereotypical approaches to fundamentalism, it may also surface in the refusal to address the question at all because it is deemed to be embedded in Muslim culture.
 

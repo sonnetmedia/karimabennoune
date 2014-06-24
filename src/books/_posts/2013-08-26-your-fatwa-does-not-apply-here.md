@@ -38,4 +38,14 @@ From Karachi to Tunis, Kabul to Tehran, across the Middle East, North Africa, So
 
 Despite their courage and creativity, and the urgency of their efforts, this global community of writers, artists, doctors, musicians, museum curators, lawyers, activists, and educators of Muslim heritage remains largely invisible at the international level, lost amid the heated coverage of Islamist terror attacks on one side and abuses perpetrated against suspected terrorists on the other.
 
+<span class="caption" style="width:270px;float:left;margin-right:12px;">
+  <img src="/assets/img/cover_your-fatwa-does-not-apply-here_pb_978-0-393-35025-8-s.jpg" style="margin-bottom: 4px; " class="image-shadow">
+  <br>
+  <small>paperback coming December, 2014</small> 
+</span>
+
 Increasingly frustrated with the stagnant, politicized public dialogue about the “clash of civilizations,” Karima Bennoune, an international human-rights lawyer, professor and activist, set out on an epic journey to change the conversation. She interviewed nearly 300 people from almost 30 countries, from Afghanistan to Mali and beyond. A veteran of twenty years of human rights research and activism, Bennoune draws on this extensive fieldwork and interviews to illuminate the inspiring stories of those who represent one of the best hopes for ending fundamentalist oppression worldwide.
+
+---
+
+

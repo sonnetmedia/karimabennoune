@@ -5,4 +5,4 @@ categories: Translation
 link_to_original: http://www.opendemocracy.net/5050/mahfoud-bennoune/algeria-and-nigeria-sharing-deadweight-of-human-mindlessness
 source: Open Democracy
 ---
-A translation of my father's article, originally published by [www.opendemocracy.net](http://www.opendemocracy.net/5050/mahfoud-bennoune/algeria-and-nigeria-sharing-deadweight-of-human-mindlessness).
+My translation of my father's article, recently excerpted by [www.opendemocracy.net](http://www.opendemocracy.net/5050/mahfoud-bennoune/algeria-and-nigeria-sharing-deadweight-of-human-mindlessness) and mentioned in _Your Fatwa Does Not Apply Here_ on page 131.
