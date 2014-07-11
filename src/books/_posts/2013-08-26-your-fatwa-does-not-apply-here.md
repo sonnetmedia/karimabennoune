@@ -28,8 +28,8 @@ the_grid:
 
 In Lahore, Pakistan, Faizan Peerzada (pictured, left) resisted being relegated to a “dark corner” by staging a performing arts festival despite bomb attacks. In Algeria, publisher Omar Belhouchet and his fellow journalists struggled to put out their papers the same night that a 1996 jihadist bombing devastated their offices, killing eighteen of their colleagues and neighbors. In Afghanistan, Young Women for Change took to the streets of Kabul to denounce sexual harassment, undeterred by threats. In Minneapolis, Minnesota, Abdirizak Bihi organized a Ramadan basketball tournament among Somali refugees to counter recruitment efforts by Al Shabaab. In Egypt, female demonstrators tried to reclaim Tahrir Square on international women’s day despite Salafist harassment.  In neighboring Sudan, women activists were dragged away from a Khartoum protest against the flogging of women for wearing trousers, but vowed to return “again and again.”
 
-<span class="caption" style="width:270px;float:right;margin-left:12px;">
-  <img src="/assets/img/rassemblement_22_03_1994_wr_270px.jpg" style="margin-bottom: 4px; " class="image-shadow">
+<span class="caption" style="width:690px;">
+  <img src="/assets/img/rassemblement_22_03_1994_lg.jpg" style="margin:14px 0; " class="image-shadow">
   <br>
   <small>photo credit: El Watan</small> 
 </span>
