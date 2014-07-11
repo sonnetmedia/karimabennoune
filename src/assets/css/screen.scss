@@ -54,3 +54,8 @@ body.home .book-information, body.books .book-information {display: block;}
  	font-weight: bold;
  }
 
+ .content img, .image-shadow {
+ -webkit-box-shadow: 0 0 12px 0 #919191;
+box-shadow: 0 0 12px 0 #919191;
+ }
+

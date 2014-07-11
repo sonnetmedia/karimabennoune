@@ -5,7 +5,7 @@ name: your-fatwa-does-not-apply-here
 permalink: /books/your-fatwa-does-not-apply-here/
 video_embed: "//www.youtube.com/embed/XLi6iYnnsGc?rel=0"
 layout: book
-excerpt_link: '/journal/2013/06/12/excerpt-from-your-fatwa-does-not-apply-here/'
+excerpt_link: '/journal/the-book/2013/06/12/excerpt-from-your-fatwa-does-not-apply-here/'
 meta_desc: "Untold Stories from the Fight against Muslim Fundamentalism"
 subtitle: "Untold Stories from the Fight against Muslim Fundamentalism"
 isbn: 9780393081589

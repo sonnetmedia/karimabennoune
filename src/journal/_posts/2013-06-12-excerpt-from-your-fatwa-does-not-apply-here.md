@@ -1,7 +1,7 @@
 ---
 title: "Excerpt from _Your Fatwa Does Not Apply Here_"
 layout: article
-category: [The Book]
+category: the-book
 summary: "![Amel Zenoune-Zouani's watch stopped at 5:17](/assets/img/algeria-amel's-watch-2.jpg)
 
 Amel Zenoune-Zouani’s watch stopped at 5:17.

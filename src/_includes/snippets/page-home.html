@@ -14,10 +14,18 @@
 		</header>
 	{% endfor %}
 	{% for review in reviews %}  
+	<img src="/assets/img/cover_your-fatwa-does-not-apply-here_pb_978-0-393-35025-8-s.jpg" style="margin-bottom: 124px;margin-left:18px;float:right; " class="image-shadow">
+
 		{% include books/format-reviews.html %}
+
 	{% endfor %}
+	
+<strong>Paperback release: December 8, 2014 </strong>
+<br /><a href="/books/your-fatwa-does-not-apply-here/"><strong>&raquo; read more about the book</strong></a><hr />
+<button><a href="/journal/the-book/2013/06/12/excerpt-from-your-fatwa-does-not-apply-here/" class="button">read an excerpt</a></button>
+
 	{% for book in books %}
-		{% if book.video_embed %}
+		{% if book.video_embedTK %}
 			<hr />
 			<iframe width="640" height="360" style="max-width:100%;" src="{{book.video_embed}}" frameborder="0" allowfullscreen></iframe>
 		{% endif %}
