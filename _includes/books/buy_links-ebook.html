@@ -1,0 +1,85 @@
+<script type="text/javascript">
+  function toggleShowHideEbook()
+   { //TODO: THIS ID SHOULD BE UNIQUE
+
+        var theDiv = document.getElementById('buy-buttons-ebook');
+        if(theDiv.style.display == 'none') {
+            theDiv.style.display = "block";
+        }
+        else{
+              theDiv.style.display = "none";
+        }
+   }
+</script>
+
+{% capture isbn %}{{ include.isbn }}{% endcapture %}
+
+
+
+<button class="pure-button-primary button button-rounded button-flat-primary btn" onclick="toggleShowHideEbook()">Buy the eBook<i class="icon-ion-ios7-cart"></i></button>
+  <div id="buy-buttons-ebook" class="list-block hidden" style="display:none;">
+    <ul class="buy-retailers small">
+
+<li>
+    <a href="http://www.amazon.com/Your-Fatwa-Does-Apply-Here-ebook/dp/B00AV7JV5W/" target="_blank" >
+      Amazon Kindle
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ isbn }}" target="_blank" >
+      Barnes &amp; Noble Nook
+    </a>
+  </li>
+  <li>
+    <a href="https://itunes.apple.com/us/book/your-fatwa-does-not-apply/id590067066?mt=11&uo=4" target="itunes_store">
+      Apple iBooks
+    </a>
+  </li>
+  <li>
+    <a href="http://store.kobobooks.com/en-US/ebook/your-fatwa-does-not-apply-here-untold-stories-from-the-fight-against-muslim-fundamentalism" target="_blank" >
+        KOBO
+    </a>
+  </li>
+</ul>
+
+
+
+{% comment %}
+
+{% if book.isbn_digital or book.asin_kindle %}
+    <ul class="buy-retailers small">
+      <li><small>Digital Editions</small></li>
+        {% if book.asin_kindle %}
+          <li>
+            <a href="http://www.amazon.com/dp/{{ book.asin_kindle }}" target="_blank" >
+              Amazon Kindle
+            </a>
+          </li>
+        {% endif %}
+
+        {% if book.isbn_digital %}
+          <li>
+            <a href="http://itunes.apple.com/us/book/isbn{{ book.isbn_digital }}" target="_blank" >
+              Apple iBooks
+            </a>
+          </li>
+          <li>
+            <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ book.isbn_digital }}" target="_blank" >
+              Barnes &amp; Noble Nook
+            </a>
+          </li>
+    {% endif %}
+    </ul>
+{% endif %}
+
+{% endcomment %}
+
+
+
+
+
+
+
+</div>

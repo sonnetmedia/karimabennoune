@@ -6,10 +6,8 @@ description: 'Karima Bennoune, author of Your Fatwa Does Not Apply Here: Untold 
 # do not include  https://github.com/...
 repo: 'budparr/jekyll-starter'
 branch: master
-default_author: "Bud Parr"
-
+default_author: "Karima Bennoune"
 port: 3900
-source: src
 
 #Jekyll Options
 # if using more than one Jekyll instance on your local machine
