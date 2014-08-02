@@ -2,11 +2,12 @@
 layout: default
 section: alt
 ---
+{% if page.show_content %}
 <article class="hentry">
 <hr />
 {{content}}
 </article>
+{% endif %}
 {% if page.include %}
       {% include {{page.include}} %}
     {% endif %}
-  

@@ -1,10 +1,15 @@
 {% assign books = site.categories.books %}
 {% assign reviews = site.data.reviews limit: 1 | where: 'featured_home', true %}
-<article>
+
+
+<article style="margin-top:2em;">
+<h6 style="text-align:right;margin-bottom:2em;font-family:Helvetica;"><a href="/journal/news/2014/07/10/ted-talk/">
+View the TED Talk Video Here &raquo;
+</a></h6>
 	{% for book in books %}
 		<header>
 			<h1 class="page-title">
-				{{book.title}} 
+				{{book.title}}
 			</h1>
 			{% if book.subtitle %}
 				<h2 class="subtitle">
@@ -13,13 +18,13 @@
 			{% endif %}
 		</header>
 	{% endfor %}
-	{% for review in reviews %}  
+	{% for review in reviews %}
 	<img src="/assets/img/cover_your-fatwa-does-not-apply-here_pb_978-0-393-35025-8-s.jpg" style="margin-bottom: 124px;margin-left:18px;float:right; " class="image-shadow">
 
 		{% include books/format-reviews.html %}
 
 	{% endfor %}
-	
+
 <strong>Paperback release: December 8, 2014 </strong>
 <br /><a href="/books/your-fatwa-does-not-apply-here/"><strong>&raquo; read more about the book</strong></a><hr />
 <button><a href="/journal/the-book/2013/06/12/excerpt-from-your-fatwa-does-not-apply-here/" class="button">read an excerpt</a></button>
