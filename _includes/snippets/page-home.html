@@ -1,6 +1,6 @@
 {% assign books = site.categories.books %}
 {% assign reviews = site.data.reviews limit: 1 | where: 'featured_home', true %}
-
+{% assign posts = site.posts limit: 1 | where: 'featured_home', true %}
 
 <article style="margin-top:2em;">
 <h6 style="text-align:right;margin-bottom:2em;font-family:Helvetica;"><a href="/journal/news/2014/07/10/ted-talk/">
@@ -18,6 +18,13 @@ View the TED Talk Video Here &raquo;
 			{% endif %}
 		</header>
 	{% endfor %}
+
+
+{% for post in posts %}
+	
+	<h3><a href="{{ post.url }}" style="color:#101010;">{{ post.title| markdownify | remove: '<p>' | remove: '</p>'  }}</a></h3>
+			<p><a href="{{ post.url }}">read more &raquo;</p>
+{% endfor %}
 	{% for review in reviews %}
 	<img src="/assets/img/cover_your-fatwa-does-not-apply-here_pb_978-0-393-35025-8-s.jpg" style="margin-bottom: 124px;margin-left:18px;float:right; " class="image-shadow">
 
