@@ -23,7 +23,7 @@ View the TED Talk Video Here &raquo;
 {% for post in posts %}
 	
 	<h3><a href="{{ post.url }}" style="color:#101010;">{{ post.title| markdownify | remove: '<p>' | remove: '</p>'  }}</a></h3>
-			<p><a href="{{ post.url }}">read more &raquo;</p>
+			<p><a href="{{ post.url }}">read more &raquo;</a></p>
 {% endfor %}
 	{% for review in reviews %}
 	<img src="/assets/img/cover_your-fatwa-does-not-apply-here_pb_978-0-393-35025-8-s.jpg" style="margin-bottom: 124px;margin-left:18px;float:right; " class="image-shadow">
