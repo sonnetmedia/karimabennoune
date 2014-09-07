@@ -1,5 +1,5 @@
 ---
-title:  Interview with Pakistani Journalist Muqtiday Mansoor 
+title:  Interview with Pakistani Journalist Muqtida Mansoor 
 layout: page
 category:
 ---
