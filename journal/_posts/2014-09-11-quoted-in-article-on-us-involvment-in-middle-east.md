@@ -1,3 +1,7 @@
+---
+Title: Quoted in "With Islamic State speech, Obama deepens US involvement in Middle East"
+layout: page
+---
 I'm quoted in this article at the *Christian Science Monitor*: ["With Islamic State speech, Obama deepens US involvement in Middle East"](http://www.csmonitor.com/USA/Foreign-Policy/2014/0911/With-Islamic-State-speech-Obama-deepens-US-involvement-in-Middle-East-video)
 
 > The emphasis Obama placed on the humanitarian and ideological grounds for this intervention – he also said that “ISIL is not Muslim” and that “most of its victims are Muslims” – is a welcome surprise to some foreign policy analysts.
