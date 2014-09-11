@@ -16,4 +16,4 @@ Here are the links:
 ["From 1990s Algeria to Iraq Today: Trampling Islam Underfoot in the name of jihad," part three](https://www.opendemocracy.net/5050/mahfoud-bennoune-karima-bennoune/from-1990s-algeria-to-iraq-today-trampling-islam-underfoot-in-)
 
 it goes with:
-Algeria and Nigeria: Sharing the deadweight of human mindlessness: [part one](https://www.opendemocracy.net/5050/mahfoud-bennoune/algeria-and-nigeria-sharing-deadweight-of-human-mindlessness) that was published back in May.
+[Algeria and Nigeria: Sharing the deadweight of human mindlessness," part one](https://www.opendemocracy.net/5050/mahfoud-bennoune/algeria-and-nigeria-sharing-deadweight-of-human-mindlessness) that was published back in May.
