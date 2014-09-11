@@ -1,5 +1,5 @@
 ---
-Title: "Quoted in \"With Islamic State speech, Obama deepens US involvement in Middle East\""
+Title: "Quoted in *With Islamic State speech, Obama deepens US involvement in Middle East*"
 layout: page
 published: true
 ---
