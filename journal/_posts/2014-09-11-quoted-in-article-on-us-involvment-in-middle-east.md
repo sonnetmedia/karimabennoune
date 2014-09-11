@@ -1,7 +1,7 @@
 ---
 Title: "Quoted in *With Islamic State speech, Obama deepens US involvement in Middle East*"
 layout: page
-published: false
+published: true
 ---
 
 I'm quoted in this article at the *Christian Science Monitor*: ["With Islamic State speech, Obama deepens US involvement in Middle East"](http://www.csmonitor.com/USA/Foreign-Policy/2014/0911/With-Islamic-State-speech-Obama-deepens-US-involvement-in-Middle-East-video)
