@@ -2,6 +2,7 @@
 title: "Regarding *How Fundamentalism Produced a Terrorism without precedent*"
 layout: page
 category:
+published: false
 ---
 Dear Friends,
 
