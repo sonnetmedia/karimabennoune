@@ -11,4 +11,4 @@ Voila l'article de la plume du regretté Salah Chouaki: "Le compromis avec l'isl
 
 [Download a PDF](/assets/files/chouaki-article.pdf)
 
-[Click here to see my translation at Open Democracy](https://www.opendemocracy.net/5050/salah-chouaki/compromise-with-political-islam-is-impossible)
+[Click here to see my translation at openDemocracy](https://www.opendemocracy.net/5050/salah-chouaki/compromise-with-political-islam-is-impossible)
