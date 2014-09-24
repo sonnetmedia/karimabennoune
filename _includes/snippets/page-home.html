@@ -20,8 +20,8 @@ View the TED Talk Video Here &raquo;
 	{% endfor %}
 
 
-{% for post in posts %}
-	
+{% for post in posts limit: 1 %}
+
 	<h3><a href="{{ post.url }}" style="color:#101010;">{{ post.title| markdownify | remove: '<p>' | remove: '</p>'  }}</a></h3>
 			<p><a href="{{ post.url }}">read more &raquo;</a></p>
 {% endfor %}
