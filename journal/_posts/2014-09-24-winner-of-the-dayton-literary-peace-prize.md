@@ -12,7 +12,13 @@ From the press release:
 
 > Inspired by the 1995 Dayton Peace Accords that ended the war in Bosnia, The Dayton Peace Prize is the only international literary peace prize awarded in the United States.
 
+From the Judges' Statement
+
+> Throughout, Bennoune displays a first rate literary sensibility, with finely detailed profiles that cast the reader deep into the point of view of her subjects. We receive necessary historical context, nuanced political analysis, brisk narrative, and just the right balance between the author’s subjectivity and writerly distance. Bennoune is acutely aware of the ethical problems inherent in literary representations and the particular ramifications of rendering her subjects in the midst of a global conflict where all sides employ stereotype for the sake of advancing their agendas. At all costs, she wants to avoid victimizing those who’ve already been victimized.
+
 Links:
+
+[Judges' Statement, by Rubén Martínez](http://daytonliterarypeaceprize.org/2014-nonfiction_winner.htm)
 
 [Press Release, word document](/assets/files/DLPP-Winners-Release-FINAL.doc)
 
