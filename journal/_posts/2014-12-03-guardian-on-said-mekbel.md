@@ -10,3 +10,5 @@ category:
 > And, as Karima Bennoune writes in Open Democracy, the piece known as “Ce voleur qui” (This thief who) remains sadly topical today because of the number of journalists killed in recent times, including those murdered by Islamic State (Isis) this year.
 
 [Read the rest at The Guardian](http://www.theguardian.com/media/greenslade/2014/dec/03/remember-said-mekbel-and-all-the-journalists-murdered-this-year)
+
+And, [PEN America](http://www.pen.org/blog/remembering-sa%C3%AFd-mekbel-twenty-years) mentions the piece too.
