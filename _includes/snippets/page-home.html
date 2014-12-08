@@ -20,19 +20,17 @@ View the TED Talk Video Here &raquo;
 	{% endfor %}
 
 
-{% for post in posts limit: 1 %}
+{% for post in posts limit: 2 %}
 
 	<h3><a href="{{ post.url }}" style="color:#101010;">{{ post.title| markdownify | remove: '<p>' | remove: '</p>'  }}</a></h3>
 			<p><a href="{{ post.url }}">read more &raquo;</a></p>
 {% endfor %}
 	{% for review in reviews %}
+	{% comment %}
 	<img src="/assets/img/cover_your-fatwa-does-not-apply-here_pb_978-0-393-35025-8-s.jpg" style="margin-bottom: 124px;margin-left:18px;float:right; " class="image-shadow">
-
+{% endcomment %}
 		{% include books/format-reviews.html %}
-
 	{% endfor %}
-
-<strong>Paperback release: December 8, 2014 </strong>
 <br /><a href="/books/your-fatwa-does-not-apply-here/"><strong>&raquo; read more about the book</strong></a><hr />
 <button><a href="/journal/the-book/2013/06/12/excerpt-from-your-fatwa-does-not-apply-here/" class="button">read an excerpt</a></button>
 

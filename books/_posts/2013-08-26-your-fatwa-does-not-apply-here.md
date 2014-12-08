@@ -1,6 +1,7 @@
 ---
 title: Your Fatwa Does Not Apply Here
-cover_image: cover-Your-Fatwa-Does-Not-Apply-Here.jpg
+# cover_image: cover-Your-Fatwa-Does-Not-Apply-Here.jpg
+cover_image: cover_your-fatwa-does-not-apply-here_pb_978-0-393-35025-8-s.jpg
 name: your-fatwa-does-not-apply-here
 permalink: /books/your-fatwa-does-not-apply-here/
 video_embed: "//www.youtube.com/embed/XLi6iYnnsGc?rel=0"
