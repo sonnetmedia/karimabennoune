@@ -9,7 +9,7 @@ layout: book
 excerpt_link: '/journal/the-book/2013/06/12/excerpt-from-your-fatwa-does-not-apply-here/'
 meta_desc: "Untold Stories from the Fight against Muslim Fundamentalism"
 subtitle: "Untold Stories from the Fight against Muslim Fundamentalism"
-isbn: 9780393081589
+isbn: 9780393350258
 the_grid:
  - 
   format: Paperback
