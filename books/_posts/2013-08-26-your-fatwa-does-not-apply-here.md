@@ -12,8 +12,8 @@ subtitle: "Untold Stories from the Fight against Muslim Fundamentalism"
 isbn: 9780393081589
 the_grid:
  - 
-  format: Hardcover
-  isbn: "9780393081589"
+  format: Paperback
+  isbn: "9780393350258"
   publisher: 'W. W. Norton & Company'
  - 
   format: Kindle
