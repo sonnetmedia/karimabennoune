@@ -1,7 +1,7 @@
 ---
-title: 
+title: Dayton Literary Peace Prize Acceptance Speech
 layout: page
-category:
+category: video
 ---
 <iframe width="640" height="360" src="//www.youtube.com/embed/_zaVw4GFk5o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
