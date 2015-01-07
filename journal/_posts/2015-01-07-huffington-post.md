@@ -1,5 +1,5 @@
 ---
-title: "Discussing the Paris Attacks"
+title: "Discussing the Charlie Hebdo Attacks in Paris"
 layout: page
 category: video
 ---
