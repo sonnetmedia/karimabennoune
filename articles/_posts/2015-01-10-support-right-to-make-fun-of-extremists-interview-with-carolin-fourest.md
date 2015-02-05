@@ -1,9 +1,9 @@
 ---
-title: ""Support the right to make fun of extremists": an interview with Caroline Fourest"
+title: "“Support the right to make fun of extremists”: an interview with Caroline Fourest"
 layout: page
 layout: article
 category: Article
-source: Open Democracy
+source: "Open Democracy"
 link_to_original: "https://www.opendemocracy.net/5050/karima-bennoune-caroline-fourest/support-right-to-make-fun-of-extremists-interview-with-carolin"
 ---
 > We are facing a political threat, a totalitarian Islamist threat that manifests in terrorism. Journalists are defending something which is elementary to our democracy: our freedom to breathe and to laugh.
