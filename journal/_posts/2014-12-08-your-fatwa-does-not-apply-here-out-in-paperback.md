@@ -1,7 +1,7 @@
 ---
 title: "*Your Fatwa Does not Apply Here* now out in Paperback"
 layout: page
-featured_home: true
+featured_home: false
 ---
 ![](/assets/img/cover_your-fatwa-does-not-apply-here_pb_978-0-393-35025-8-s.jpg) ***Your Fatwa Does not Apply Here* is now out in Paperback and has a new afterword.**
 
