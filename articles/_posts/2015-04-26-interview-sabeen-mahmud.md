@@ -8,4 +8,4 @@ link_to_original: "https://opendemocracy.net/5050/karima-bennoune/in-memory-of-s
 ---
 Sabeen Mahmud alleviated intellectual poverty until the day she was murdered, 24 April 2015. In an interview with Karima Bennoune in 2010 Mahmud explained why she founded a politico-cultural space in Karachi.
 
-{% if page.link_to_original %}Read at [{{ page.source}}]({{page.link_to_original}}){% endif %}
+{% include articles/link-to-original.html %}
