@@ -2,6 +2,7 @@
 title: "Interview in memory of Sabeen Mahmud"
 category: Article
 layout: article
+featured_home: true
 source: "openDemocracy"
 link_to_original: "https://opendemocracy.net/5050/karima-bennoune/in-memory-of-sabeen-mahmud-%E2%80%9Ci-stand-up-for-what-i-believe-in-but-i-can%E2%80%99t-fight-"
 ---
