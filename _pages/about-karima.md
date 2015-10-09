@@ -1,9 +1,11 @@
 ---
 title: About Karima
-permalink: /about-karima/
-meta_desc: "Karima Bennoune is a professor of international law at the University of California–Davis School of Law. She grew up in Algeria and the United States and now lives in northern California."
+permalink: "/about-karima/"
+meta_desc: Karima Bennoune is a professor of international law at the University of California–Davis School of Law. She grew up in Algeria and the United States and now lives in northern California.
 layout: page
+published: true
 ---
+
 ![](/assets/img/KarimaBennoune_wr.jpg) Karima Bennoune is a professor of international law at the University of California–Davis School of Law. She grew up in Algeria and the United States and now lives in northern California.
 
 
@@ -31,4 +33,6 @@ In 2007, Professor Bennoune became the first Arab-American to win the Derrick Be
 Karima Bennoune has also been a consultant on human rights issues for the International Council on Human Rights Policy, the Soros Foundation, the Coalition to Stop the Use of Child Soldiers, and for the United Nations Educational, Scientific and Cultural Organization (UNESCO). Her human rights field missions have included Afghanistan, Bangladesh, Fiji, Lebanon, Pakistan, South Korea, southern Thailand, and Tunisia. In 2009-2010 she was one of a group of international experts assembled by Leiden University, under the auspices of the Dutch Foreign Ministry, to develop a new set of policy recommendations on counter-terrorism and international law.
 
 
-She traveled to Algeria in February 2011 to serve as an observer at pro-democracy protests with the support of the Urgent Action Fund for Women’s Human Rights, writing a series of articles about these events for the Guardian. In October 2011, she volunteered as an election observer during the Tunisian constituent assembly elections with Gender Concerns International. She has published widely including with the Guardian, Comment is Free, the website of Al Jazeera English, The Nation, and many others.  Most recently, her writing about North and West Africa has appeared in the San Francisco Chronicle and The New York Times, and on the website Open Democracy
+She traveled to Algeria in February 2011 to serve as an observer at pro-democracy protests with the support of the Urgent Action Fund for Women’s Human Rights, writing a series of articles about these events for the Guardian. In October 2011, she volunteered as an election observer during the Tunisian constituent assembly elections with Gender Concerns International. She has published widely including with the Guardian, Comment is Free, the website of Al Jazeera English, The Nation, and many others.  Most recently, her writing about North and West Africa has appeared in the San Francisco Chronicle and The New York Times, and on the website Open Democracy.
+
+In 2015 she was named [UN Special Rapporteur in the field of cultural rights](http://www.karimabennoune.com/journal/2015/10/02/un-human-rights-council/). 
