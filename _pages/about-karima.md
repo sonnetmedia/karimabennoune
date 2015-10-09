@@ -9,7 +9,7 @@ published: true
 ![](/assets/img/KarimaBennoune_wr.jpg) Karima Bennoune is a professor of international law at the University of California–Davis School of Law. She grew up in Algeria and the United States and now lives in northern California.
 
 
-The topic of _Your Fatwa Does Not Apply Here_ is a very personal one for her. [Mahfoud Bennoune](http://www.mahfoudbennoune.com/), her father, was an outspoken professor at the University of Algiers who faced death threats during the 1990s, but continued speaking out against fundamentalism and terrorism. In writing this book, Karima set out to meet people who are today doing what her father did back then, to try to garner for them greater international support than Algerian democrats received during the 1990s.
+The topic of _Your Fatwa Does Not Apply Here_, published in 2013, is a very personal one for her. [Mahfoud Bennoune](http://www.mahfoudbennoune.com/), her father, was an outspoken professor at the University of Algiers who faced death threats during the 1990s, but continued speaking out against fundamentalism and terrorism. In writing this book, Karima set out to meet people who are today doing what her father did back then, to try to garner for them greater international support than Algerian democrats received during the 1990s.
 
 
 She graduated from a joint program in law and Middle Eastern and North African studies at the University of Michigan, earning a J.D. cum laude from the law school and an M.A. from the Rackham Graduate School, as well as a Graduate Certificate in Women’s Studies.
