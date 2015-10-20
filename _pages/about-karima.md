@@ -30,4 +30,4 @@ Karima Bennoune has also been a consultant on human rights issues for the Intern
 
 In 2014, _Your Fatwa Does Not Apply Here_ won the Dayton Literary Peace Prize for non-fiction. It was also selected as the best social science book of 2013 by the American Library Association’s Booklist.  The first TED talk based on the book – “When People of Muslim Heritage Confront Fundamentalism” - has garnered over 1.3 million views.
 
-<a name="_GoBack">In 2015 she was named</a> [UN Special Rapporteur in the field of cultural rights](http://www.karimabennoune.com/journal/2015/10/02/un-human-rights-council/).
+In 2015 she was named [UN Special Rapporteur in the field of cultural rights](http://www.karimabennoune.com/journal/2015/10/02/un-human-rights-council/).
