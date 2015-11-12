@@ -10,6 +10,8 @@ categories:
 
 *Photo Credit Andy Snow.*
 
-&nbsp;
+![](/uploads/versions/dsc3491---x----700-466x---.jpg)&nbsp;It is not every day that you have the honor of being listened to by Bryan Stevenson (this year's non-fiction winner) and the amazing Gloria Steinem (Holbrooke lifetime achievement award winner).&nbsp;
+
+*Photo credit Andy Snow*
 
 &nbsp;
