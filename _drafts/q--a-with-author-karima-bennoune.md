@@ -14,4 +14,8 @@ I recently did a Q & A at the Dayton Daily News
 >
 > Telling these stories is the best way I knew to honor these intelligent, brave people using their wits to fight oppression and terror. It is a great honor to have done so, and to have had this book published.
 
-Read the rest at [*The Dayton Daily News*](http://www.mydaytondailynews.com/news/entertainment/books-literature/q-a-with-author-karima-bennoune/npHnX/)
+Read the rest at *[The Dayton Daily News](http://www.mydaytondailynews.com/news/entertainment/books-literature/q-a-with-author-karima-bennoune/npHnX/).*
+
+The Dayton Daily News has also posted an [excerpt](http://www.mydaytondailynews.com/news/entertainment/books-literature/excerpt-of-your-fatwa-does-not-apply-here/npHmk/) of *Your Fatwa Does not Apply Here*.
+
+&nbsp;
