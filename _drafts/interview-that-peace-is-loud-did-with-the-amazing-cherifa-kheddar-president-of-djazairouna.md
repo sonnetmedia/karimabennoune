@@ -1,7 +1,11 @@
 ---
-title: Interview That Peace Is Loud Did With the Amazing Cherifa Kheddar President of Djazairouna
+title: 'Interview: Peace Is Loud with Cherifa Kheddar, President of Djazairouna'
 layout: page
 published: true
 categories:
   - journal
 ---
+
+*Peace Is Loud*&nbsp;published an interview with the amazing Cherifa Kheddar, President of Djazairouna, whose story appears in Chapter five of *Your Fatwa does not Apply Here*. Read it a [*Peace is Loud*](http://www.peaceisloud.org/blog/cherifa-kheddar-on-algerian-women-confronting-extremism).
+
+&nbsp;
