@@ -5,3 +5,9 @@ published: true
 categories:
   - journal
 ---
+
+This is an interview I did with NPR about women being recruited by ISIS.
+
+&nbsp;
+
+&nbsp;
