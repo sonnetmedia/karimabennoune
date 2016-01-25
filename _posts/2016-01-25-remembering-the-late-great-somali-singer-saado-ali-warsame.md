@@ -1,7 +1,7 @@
 ---
 title: 'Remembering the late, great Somali singer Saado Ali Warsame'
-categories: News
+categories: journal
 layout: article
 ---
 
-![](/uploads/czibhyhueaa5rdc.jpg)An honor to take part in [@mpvusa's](https://twitter.com/mpvusa) "celebration of life."&nbsp;
+![](/uploads/czibhyhueaa5rdc.jpg)An honor to take part in [@mpvusa's](https://twitter.com/mpvusa) "celebration of life."
