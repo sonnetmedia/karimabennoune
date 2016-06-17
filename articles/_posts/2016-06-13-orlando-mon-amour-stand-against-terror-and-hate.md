@@ -7,11 +7,11 @@ link_to_original: 'http://www.huffingtonpost.com/karima-bennoune/orlando-mon-amo
 ---
 
 
-I am Pulse.
+> I am Pulse.
 
-I am of Muslim heritage. And I am Pulse Night Club.
+> I am of Muslim heritage. And I am Pulse Night Club.
 
-In spirit, I am today marching in a pride parade, with tears in my eyes and a great big rainbow-colored star and crescent solidarity flag in my hand.
+> In spirit, I am today marching in a pride parade, with tears in my eyes and a great big rainbow-colored star and crescent solidarity flag in my hand.
 
 *Read the rest at [Huffington Post](http://www.huffingtonpost.com/karima-bennoune/orlando-mon-amour-stand-a_b_10431490.html).*
 
