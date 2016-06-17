@@ -2,6 +2,15 @@
 title: 'Orlando, Mon Amour: Stand against Terror and Hate'
 layout: article
 categories: Scholarly
-source: 'Berkeley Journal of International Law (BJIL), Vol. 26, No. 1, pp. 1-61, 2008  Rutgers School of Law-Newark Research Papers No. 032'
-link_to_original: 'http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1148284'
+source: Huffington Post
+link_to_original: 'http://www.huffingtonpost.com/karima-bennoune/orlando-mon-amour-stand-a_b_10431490.html'
 ---
+
+
+I am Pulse.
+
+I am of Muslim heritage. And I am Pulse Night Club.&nbsp;
+<br>
+<br>In spirit, I am today marching in a pride parade, with tears in my eyes and a great big rainbow-colored star and crescent solidarity flag in my hand.
+
+Read the rest at [Huffington Post](http://www.huffingtonpost.com/karima-bennoune/orlando-mon-amour-stand-a_b_10431490.html).
