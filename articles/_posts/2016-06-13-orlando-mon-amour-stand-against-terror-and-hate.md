@@ -15,4 +15,4 @@ link_to_original: 'http://www.huffingtonpost.com/karima-bennoune/orlando-mon-amo
 
 *Read the rest at [Huffington Post](http://www.huffingtonpost.com/karima-bennoune/orlando-mon-amour-stand-a_b_10431490.html).*
 
-With many thanks to Filip Outrata who translated this piece to the Turkish. Read it [here](http://denikreferendum.cz/clanek/23182-karima-bennoune-orlando-mon-amour).
+With many thanks to Filip Outrata who translated this piece to the Czech. Read it [here](http://denikreferendum.cz/clanek/23182-karima-bennoune-orlando-mon-amour).
