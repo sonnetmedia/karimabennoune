@@ -14,4 +14,4 @@ Please remember the Kheddars today, share their story on Facebook and Twitter an
 The best memorial is to keep up the fight against fundamentalism and terror.
 
 
-Photo courtesy of the Kheddar family.
+_Photo courtesy of the Kheddar family._
