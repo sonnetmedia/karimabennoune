@@ -1,0 +1,55 @@
+---
+layout: default
+section: page
+---
+{% if page.splash_image %}
+	{% include snippets/page-splash.html %}
+{% endif %}
+<article class="hentry">
+ <header>
+    {% if page.title %}
+    <h1 class="entry-title">{{page.title | markdownify | remove: '<p>' | remove: '</p>'  }}</h1>
+    {% endif %}
+    {% if page.subtitle %}
+    <h2>
+      {{page.subtitle}}
+    </h2>
+    {% endif %}
+    {% if page.date %}
+      <time class='date' datetime="{{ page.date | date:'%Y-%m-%d' }}">
+        <small>
+          {{ page.date | date:'%A %b %d, %Y' }}
+        </small>
+      </time>
+    {% endif %}
+  </header>
+  <div class="entry-content prose">
+<div class="list">
+  {% for news in page.posts %}  
+    <h2 class="title" style="width:100%;clear:both;">
+      <a href="{{ news.url }}">{{ news.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+    </h2>
+      <small>
+        {{ news.date | date: "%B %d, %Y" }}
+      </small>
+    <div class="content-list">
+    {% if news.summary %}
+      {{ news.summary | markdownify }}
+    {% else %}
+      {{ news.content | markdownify }}
+    {% endif %}
+    {% if news.source %}
+      <small>
+        {% if news.link_to_original %}
+          <a href="{{news.link_to_original}}">{{news.source}} <i class="icon-link-ext"></i></a>
+        {% else %}
+          {{news.source}}
+        {% endif %}
+      </small>
+    {% endif %}
+    </div>
+  <hr />
+{% endfor %}
+</div></div>
+
+</article>

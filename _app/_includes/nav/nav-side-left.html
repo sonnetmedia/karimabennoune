@@ -1,0 +1,27 @@
+<aside class="sidebar-left">
+  <h1><a href="/" class="brand-tagline">{{site.sitename}}</a></h1>
+  <hr />
+<div class="book-information">
+{% for book in site.books %}
+
+	{% include books/buy_links.html isbn="9780393350258" %}
+<hr />
+	{% include books/buy_links-ebook.html isbn="9780393240658" %}
+<hr />
+{% if book.cover_image_path %}
+<a href="{{ book.url }}"><img src="{{ book.cover_image_path }}" style="max-width:90%;"></a>
+{% endif %}
+{% endfor %}
+
+<hr />
+<!-- Go to your Addthis.com Dashboard to update any options -->
+<div class="addthis_sharing_toolbox"></div>
+<!-- AddThis Pro BEGIN -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=sonnetmedia"></script>
+<!-- AddThis Pro END -->
+</div>
+
+
+
+</aside>
+<!-- /aside left -->

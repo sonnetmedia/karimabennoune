@@ -9,6 +9,13 @@ branch: master
 default_author: "Karima Bennoune"
 port: 3900
 
+
+categories:  
+  - journal
+  - articles
+  - reviews
+  - appearances
+  
 #Jekyll Options
 # if using more than one Jekyll instance on your local machine
 # port:
@@ -22,8 +29,23 @@ permalink:  pretty
 #Pages - store all pages in the _pages directory
 include: ['_pages']
 relative_permalinks: false # won't need this as of 2.0: Deprecation: Starting in 2.0, permalinks for pages in subfolders must be relative to the site source directory, not the parent directory. Also will change exclude directory
-exclude: ['readme.md','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md', 'prose.yaml']
+exclude: ['readme.md','bower_components','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md', 'prose.yaml']
+gems:
+  - jekyll-archives
+  - jekyll-seo-tag
+jekyll-archives:
+  enabled: all
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    category: '/:name/'
 
+plugins_dir:  ./_app/_plugins
+layouts_dir:  ./_app/_layouts
+includes_dir: ./_app/_includes
+ 
 # dev options (true/false)
 # if site is in production, 'production: true'
 production: true
@@ -57,3 +79,17 @@ sass:
 collections:
   books:
     output: true
+  landing_pages:
+    output: true
+    permalink: '/:path/'
+defaults:
+  - scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: article
+  - scope:
+      path: ''
+      type: 'landing_pages'
+    values:
+      layout: page
