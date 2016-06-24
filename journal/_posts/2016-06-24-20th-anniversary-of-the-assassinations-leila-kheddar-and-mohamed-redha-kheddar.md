@@ -1,6 +1,7 @@
 ---
 title: 20th anniversary of the assassinations Leila Kheddar and Mohamed Redha Kheddar
 categories: News
+featured_home: true
 layout: article
 ---
 

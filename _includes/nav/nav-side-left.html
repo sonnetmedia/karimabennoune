@@ -2,7 +2,7 @@
   <h1><a href="/" class="brand-tagline">{{site.sitename}}</a></h1>
   <hr />
 <div class="book-information">
-{% for book in site.categories.books %}
+{% for book in site.books %}
 	{% include books/buy_links.html isbn="9780393350258" %}
 <hr />
 	{% include books/buy_links-ebook.html isbn="9780393240658" %}

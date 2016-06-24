@@ -1,38 +1,62 @@
-{% assign books = site.categories.books %}
+{% assign books = site.books %}
 {% assign reviews = site.data.reviews limit: 1 | where: 'featured_home', true %}
-{% assign posts = site.posts limit: 1 | where: 'featured_home', true %}
+{% assign posts = site.posts limit: 1  %}
 
 <article style="margin-top:2em;">
-<h6 style="text-align:right;margin-bottom:2em;font-family:Helvetica;"><a href="/journal/news/2014/07/10/ted-talk/">
-View the TED Talk Video Here &raquo;
-</a></h6>
-	{% for book in books %}
+{% comment %}
+<!-- <h6 style="text-align:right;margin-bottom:2em;font-family:Helvetica;"><a href="/journal/news/2014/07/10/ted-talk/">
+	View the TED Talk Video Here &raquo;
+	</a>
+</h6> -->
+{% endcomment %}
+
+{% for post in posts limit: 1 %}
+	<h3>
+		<a href="{{ post.url }}" style="color:#101010;">
+			{{ post.title| markdownify | remove: '<p>' | remove: '</p>'  }}
+		</a>
+	</h3>
+	<p>
+		<a href="{{ post.url }}">
+			read more &raquo;
+		</a>
+	</p>
+{% endfor %}
+	<hr />
+	{% for book in books limit: 1 %}
 		<header>
 			<h1 class="page-title">
-				{{book.title}}
+				{{ book.title }}
 			</h1>
 			{% if book.subtitle %}
 				<h2 class="subtitle">
-					{{book.subtitle}}
+					{{ book.subtitle }}
 				</h2>
 			{% endif %}
 		</header>
+
+	<img src="{{ book.cover_image_path }}" style="margin-bottom: 124px;margin-left:18px;float:right; " class="image-shadow">
 	{% endfor %}
 
 
-{% for post in posts limit: 1 %}
 
-	<h3><a href="{{ post.url }}" style="color:#101010;">{{ post.title| markdownify | remove: '<p>' | remove: '</p>'  }}</a></h3>
-			<p><a href="{{ post.url }}">read more &raquo;</a></p>
+{% for review in reviews %}
+
+
+	{% include books/format-reviews.html %}
 {% endfor %}
-	{% for review in reviews %}
-	{% comment %}
-	<img src="/assets/img/cover_your-fatwa-does-not-apply-here_pb_978-0-393-35025-8-s.jpg" style="margin-bottom: 124px;margin-left:18px;float:right; " class="image-shadow">
-{% endcomment %}
-		{% include books/format-reviews.html %}
-	{% endfor %}
-<br /><a href="/books/your-fatwa-does-not-apply-here/"><strong>&raquo; read more about the book</strong></a><hr />
-<a href="/journal/the-book/2013/06/12/excerpt-from-your-fatwa-does-not-apply-here/" class="button"><button>read an excerpt</button></a>
+<br />
+	<a href="/books/your-fatwa-does-not-apply-here/">
+		<strong>
+			&raquo; read more about the book
+		</strong>
+	</a>
+<hr />
+<a href="/journal/the-book/2013/06/12/excerpt-from-your-fatwa-does-not-apply-here/" class="button">
+	<button>
+		read an excerpt
+	</button>
+</a>
 
 	{% for book in books %}
 		{% if book.video_embedTK %}
