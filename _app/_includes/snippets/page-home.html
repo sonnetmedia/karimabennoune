@@ -1,6 +1,6 @@
 {% assign books = site.books %}
 {% assign reviews = site.data.reviews limit: 1 | where: 'featured_home', true %}
-{% assign posts = site.posts limit: 1  %}
+{% assign posts = site.posts | where: 'featured', true | first  %}
 
 <article class="hentry" style="margin-top:2em;">
 {% comment %}
