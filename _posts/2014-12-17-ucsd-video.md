@@ -1,7 +1,8 @@
 ---
 title: "Untold Stories of Women’s Struggles Against Muslim Fundamentalism with Karima Bennoune"
 layout: page
-category: video
+category: appearances
+tag: video
 ---
 <iframe width="620" height="387" src="http://www.youtube.com/embed/pfYgyIpAOvI" frameborder="0" allowfullscreen></iframe>
 

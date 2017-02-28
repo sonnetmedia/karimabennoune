@@ -1,7 +1,8 @@
 ---
 title: "Supporting satire in the face of terrorism"
 layout: page
-category: video
+category: appearances
+tag: video
 ---
 I appeared on [MSNBC](http://www.msnbc.com/the-cycle/watch/supporting-satire-in-the-face-of-terrorism-381720131843) discussing satire in the face of terrorism.
 

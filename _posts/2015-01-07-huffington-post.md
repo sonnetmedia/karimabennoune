@@ -1,7 +1,8 @@
 ---
 title: "Discussing the Charlie Hebdo Attacks in Paris"
 layout: page
-category: video
+category: appearances
+tag: video
 ---
 I was on [Huffington Post Live](http://live.huffingtonpost.com/r/segment/paris-shooting-charlie-hebdo/54ad381e78c90aae8a0004e1) today discussing the attacks in Paris.
 

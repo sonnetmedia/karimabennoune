@@ -1,7 +1,8 @@
 ---
 title: "Discussing the Charlie Hebdo Attacks in Paris on MSNBC"
 layout: page
-category: video
+category: appearances
+tag: video
 ---
 I appeared on the "All In with Chris Hayes" show on [MSNBC](http://www.msnbc.com/all-in/watch/the-right-to-offend-381384771899) discussing the Charlie Hebdo attack in Paris.
 
