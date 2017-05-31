@@ -9,7 +9,7 @@ source: CS Monitor
 ---
 
 
-Mention in this article at the *Christian Science Monitor*:
+I was interviewed for this article at the *Christian Science Monitor*:
 
 > While Europe and the West have seen an increase in significant terrorist attacks on cultural institutions, parts of the Middle East and Asia have long dealt with Islamist extremists targeting arts organizations, says Karima Bennoune, special rapporteur in the field of cultural rights for the United Nations. “What we’re seeing now is that what’s happened in certain countries for years has transposed to the international level.”
 >
