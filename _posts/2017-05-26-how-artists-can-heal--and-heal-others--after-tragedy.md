@@ -5,7 +5,7 @@ category: journal
 tags:
   - Article
 link_to_original: 'http://www.csmonitor.com/USA/Society/2017/0526/How-artists-can-heal-and-heal-others-after-tragedy'
-source: CS Monitor
+source: Christian Science Monitor
 ---
 
 
