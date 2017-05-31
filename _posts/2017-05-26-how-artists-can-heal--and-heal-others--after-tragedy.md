@@ -1,6 +1,6 @@
 ---
 title: How artists can heal – and heal others – after tragedy
-date: 2017-05-26 00:00:00
+date: 2017-05-26 13:00:00
 category: journal
 tags:
 link_to_original: 'http://www.csmonitor.com/USA/Society/2017/0526/How-artists-can-heal-and-heal-others-after-tragedy'
