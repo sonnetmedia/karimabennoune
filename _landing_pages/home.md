@@ -7,3 +7,4 @@ published: true
 category: home
 show_content: true
 ---
+## [VOTRE FATWA NE S’APPLIQUE PAS ICI](/en-francais/)
