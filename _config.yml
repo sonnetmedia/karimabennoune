@@ -7,15 +7,15 @@ description: 'Karima Bennoune, author of Your Fatwa Does Not Apply Here: Untold 
 repo: 'budparr/jekyll-starter'
 branch: master
 default_author: "Karima Bennoune"
-port: 3900
 
 
-categories:  
+
+categories:
   - journal
   - articles
   - reviews
   - appearances
-  
+
 #Jekyll Options
 # if using more than one Jekyll instance on your local machine
 # port:
@@ -30,7 +30,7 @@ version: 3.0.3
 include: ['_pages']
 relative_permalinks: false # won't need this as of 2.0: Deprecation: Starting in 2.0, permalinks for pages in subfolders must be relative to the site source directory, not the parent directory. Also will change exclude directory
 exclude: ['readme.md','bower_components','license.md','Gemfile', 'Gemfile.lock','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'README.md', 'prose.yaml']
-gems:
+plugins:
   - jekyll-archives
   - jekyll-seo-tag
 jekyll-archives:
@@ -45,7 +45,7 @@ jekyll-archives:
 plugins_dir:  ./_app/_plugins
 layouts_dir:  ./_app/_layouts
 includes_dir: ./_app/_includes
- 
+
 # dev options (true/false)
 # if site is in production, 'production: true'
 production: true
