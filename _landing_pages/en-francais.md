@@ -4,7 +4,11 @@ layout: page
 category:
 permalink: /en-francais/
 ---
-Karima Bennoune est allée dans une vingtaine de pays de culture musulmane (Pakistan, Afghanistan, Algérie, Egypte, Iran...) pour rencontrer des opposants aux islamistes fondamentalistes. Elle dresse leur portrait dans ce livre-enquête exceptionnel. Et rapporte des reportages de ces régions du monde parmi les plus dangereuses (Pakistan, Afghanistan...). On découvre, au fil de ces pages saisissantes, des personnalités incroyables et attachantes, véritables héros du quotidien qui risquent leur vie pour un idéal : la liberté. Karima Bennoune, professeur de Droit à l'Université de Californie – Davis, est Rapporteur spécial de l'ONU pour les droits culturels. Elle est née en Algérie, où son père, Mahfoud Bennoune, était un anthropologue réputé, menacé de mort à plusieurs reprises par les islamistes. Son livre a d'abord été publié aux Etats-Unis chez Norton (Your Fatwa Does Not Apply Here).
+Deux ans après les attentats du 13 novembre, les éditions Temps Présent publient la traduction de l’enquête exceptionnelle menée par Karima Bennoune pendant plusieurs années dans le monde musulman.
+
+Elle dresse le portrait d’opposants aux fondamentalistes islamistes dans de nombreux pays: Pakistan, Afghanistan, Algérie, Égypte, Tunisie, Iran, Mali, Tchétchénie… La plupart sont des femmes, musulmanes ou athées. Beaucoup ont été surveillées, emprisonnées, agressées. L’une d’elles a été assassinée, au Pakistan. Ce livre est aussi un « coup de gueule » de l’auteur contre son camp, celui des progressistes laïques, quand il minimise la montée de l’islamisme.
+
+Elle dénonce également les discriminations subies par les musulmans depuis le 11 septembre 2001. Karima Bennoune est professeur de Droit à l’Université de Californie – Davis. Elle a grandi en Algérie, où son père, Mahfoud Bennoune, était un anthropologue réputé, menacé de mort à plusieurs reprises par les islamistes. Après la parution de son livre aux États-Unis, Karima Bennoune a été nommée Rapporteuse spéciale auprès des Nations Unies pour les droits culturels.
 
 [**Amazon.com**](https://www.amazon.fr/Votre-fatwa-sapplique-pas-ici/dp/2916842535/ref=sr_1_1?s=books&ie=UTF8&qid=1507802227&sr=1-1&keywords=karima+bennoune) [**Review**](http://evene.lefigaro.fr/livres/livre/karima-bennoune-votre-fatwa-ne-s-applique-pas-ici-5099879.php)
 
