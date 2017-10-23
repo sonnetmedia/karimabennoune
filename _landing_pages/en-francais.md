@@ -22,4 +22,4 @@ Elle dénonce également les discriminations subies par les musulmans depuis le 
 
 [L’Algérie doit changer sa politique vis-à-vis des défenseurs des victimes du terrorisme](/articles/2015/03/21/karima-bennoune-l-algerie-doit-changer-sa-politique-vis-a-vis-des-defenseurs-des-victimes-du-terrorisme-20-03-2015-290308_109/)
 
-[Victimes du terrorisme : Ajouad Montréal contre l’amnésie organisée](articles/2015/03/20/victimes-du-terrorisme-ajouad-montreal-contre-l-amnesie-organisee/)
+[Victimes du terrorisme : Ajouad Montréal contre l’amnésie organisée](/articles/2015/03/20/victimes-du-terrorisme-ajouad-montreal-contre-l-amnesie-organisee/)
