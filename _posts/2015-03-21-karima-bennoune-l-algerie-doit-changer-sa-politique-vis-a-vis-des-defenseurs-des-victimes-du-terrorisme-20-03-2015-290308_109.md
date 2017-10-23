@@ -1,7 +1,7 @@
 ---
 title: "L’Algérie doit changer sa politique vis-à-vis des défenseurs des victimes du terrorisme"
 category: articles
-tags: Article
+tags: "français"
 source: El Watan
 link_to_original: "http://www.elwatan.com/actualite/karima-bennoune-l-algerie-doit-changer-sa-politique-vis-a-vis-des-defenseurs-des-victimes-du-terrorisme-20-03-2015-290308_109.php"
 
