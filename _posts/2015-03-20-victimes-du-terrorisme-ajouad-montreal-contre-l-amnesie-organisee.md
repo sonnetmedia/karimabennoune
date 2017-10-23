@@ -1,7 +1,7 @@
 ---
 title: "Victimes du terrorisme : Ajouad Montréal contre l’amnésie organisée"
 category: articles
-tags: Article
+tags: "français"
 source: "El Watan"
 link_to_source: "http://www.elwatan.com/actualite/victimes-du-terrorisme-ajouad-montreal-contre-l-amnesie-organisee-20-03-2015-290304_109.php"
 ---
