@@ -1,0 +1,80 @@
+---
+pages:
+- _landing_pages/reviews.md
+- _landing_pages/home.md
+- _landing_pages/excerpt-from-your-fatwa-does-not-apply-here.md
+- _landing_pages/en-francais.md
+- _landing_pages/contact.md
+- _landing_pages/about-karima.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: meta_desc
+  label: Meta desc
+  type: textarea
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: category
+  label: Category
+  type: text
+  hidden: false
+  default: ''
+- name: summary
+  label: Summary
+  type: textarea
+  hidden: false
+  default: ''
+- name: include
+  label: Include
+  type: text
+  hidden: false
+  default: ''
+- name: sharing
+  label: Sharing
+  type: boolean
+  hidden: false
+  default: ''
+- name: published
+  label: Published
+  type: boolean
+  hidden: false
+  default: ''
+- name: show_content
+  label: Show content
+  type: boolean
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: meta_title
+  label: Meta title
+  type: text
+  hidden: false
+  default: ''
+- name: status
+  label: Status
+  type: text
+  hidden: false
+  default: ''
