@@ -12,8 +12,6 @@ link_to_source: ''
 ---
 Par Malika Boussouf
 
-malikaboussouf@yahoo.fr
-
 
 Nous parlions, il y a quelques jours, Cherifa Kheddar, la présidente de
 l’association Djazaïrouna et moi, de l’immense douleur que portent, en
