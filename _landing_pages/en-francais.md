@@ -27,3 +27,6 @@ Elle dénonce également les discriminations subies par les musulmans depuis le 
 [Victimes du terrorisme : Ajouad Montréal contre l’amnésie organisée](/articles/2015/03/20/victimes-du-terrorisme-ajouad-montreal-contre-l-amnesie-organisee/)
 
 ['SOIT DIT EN PASSANT: «Votre fatwa ne s’applique pas ici» !'](/journal/2017/10/26/soit-dit-en-passant-votre-fatwa-ne-s-applique-pas-ici/)
+
+
+[«ON REFUSE DE DONNER LA PAROlE AUX MUSUlMANS QUI LUTTENT CONTRE L’ISLAMISME»](/uploads/Charlie-Hebdo-KB.pdf)
