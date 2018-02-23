@@ -18,6 +18,8 @@ Elle dénonce également les discriminations subies par les musulmans depuis le 
 
 ##### Des articles
 
+[Rencontre 05 11 17 Samia Messaoudi reçoit Karima Bennoune à l'occasion de la sortie de son livre Votre fatwa ne s'applique pas ici](/journal/2017/11/05/rencontre-05-11-17-6/)
+
 [« Votre Fatwa ne s’applique pas ici », les présumés musulmans aspirent aussi à la liberté](/journal/2017/10/26/Votre-Fatwa-sapplique-pas-ici-presumes-musulmans-aspirent-aussi-liberte/)
 
 [Ils résistent aux fondamentalistes islamistes](/journal/2017/10/22/portraits-resistants-fondamentalistes-islamistes-radicalisation/)

@@ -11,3 +11,5 @@ tag: []
 link_to_source: ''
 ---
 Karima Bennoune, professeur de droit américaine d’origine algérienne est allée à la rencontre de tous ceux qui luttent contre le fondamentalisme islamique, l’extrême droite des pays musulmans si mal compris dans les pays occidentaux.
+
+### [LaCroix](https://www.la-croix.com/Monde/Votre-Fatwa-sapplique-pas-ici-presumes-musulmans-aspirent-aussi-liberte-2017-11-27-1200895074)
