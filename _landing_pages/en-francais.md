@@ -14,13 +14,17 @@ Elle dénonce également les discriminations subies par les musulmans depuis le 
 
 ###### [WOLE SOYINKA : « Votre fatwa ne s’appliquera jamais ici »](http://www.courrierdesafriques.net/2015/01/wole-soyinka-votre-fatwa-ne-sappliquera-jamais-ici)
 
-
 ---
 
 ##### Événements
 
 [Rencontre débat avec Karima Bennoune pour la parution de son ouvrage "Votre fatwa ne s'applique pas ici" paru aux éditions Temps Présent. Le vendredi 9 mars à partir de 19h ](https://www.facebook.com/events/180344242732176/)
 
+
+
+[Rencontre avec Karima Bennoune autour de son livre VOTRE FATWA NE S’APPLIQUE PAS ICI (Ed. Temps Présent, 2017) Mercredi 14 mars 2018 à 19h](/uploads/flyer_KarimaBennoune.pdf)
+
+[CAFÉ DES FEMMES](/uploads/cafe-des-femmes-karima-bennoune-12-mars.pdf)
 
 ---
 
