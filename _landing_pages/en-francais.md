@@ -18,7 +18,7 @@ Elle dénonce également les discriminations subies par les musulmans depuis le 
 
 ##### Des articles
 
-[« Votre Fatwa ne s’applique pas ici », les présumés musulmans aspirent aussi à la liberté](http://localhost:4000/journal/2017/10/26/Votre-Fatwa-sapplique-pas-ici-presumes-musulmans-aspirent-aussi-liberte/)
+[« Votre Fatwa ne s’applique pas ici », les présumés musulmans aspirent aussi à la liberté](/journal/2017/10/26/Votre-Fatwa-sapplique-pas-ici-presumes-musulmans-aspirent-aussi-liberte/)
 
 [Ils résistent aux fondamentalistes islamistes](/journal/2017/10/22/portraits-resistants-fondamentalistes-islamistes-radicalisation/)
 
