@@ -16,43 +16,35 @@ Elle dénonce également les discriminations subies par les musulmans depuis le 
 
 ---
 
-##### Événements
+### Événements
 
-[Au Temps Lire Mercredi 7 mars de 10h à 12h30 : Rencontre avec Karima Bennoune (sur inscription) auteure de Votre Fatwa ne s’applique pas ici aux éditions du Temps Présent](https://autempslire.com/).
+Karima Bennoune sera en France ​du 7​ au ​15 mars​,​ pour présenter son livre Votre Fatwa Ne S’Applique Pas Içi, paru ​récemment ​​aux éditions Temps Présent.   ​
 
-[Rencontre débat avec Karima Bennoune pour la parution de son ouvrage "Votre fatwa ne s'applique pas ici" paru aux éditions Temps Présent. Le vendredi 9 mars à partir de 19h ](https://www.facebook.com/events/180344242732176/)
-
-[Journée International des Droits des Femmes 2018 - 10 MARS 2018 - 14h CONFÉRENCE-DÉBAT AVEC KARIMA BENNOUNE](/uploads/Tract-10-mars-2018-Zumba-et-conference-debat.pdf)
-
-[CAFÉ DES FEMMES](/uploads/cafe-des-femmes-karima-bennoune-12-mars.pdf)
-
-[Rencontre avec Karima Bennoune autour de son livre VOTRE FATWA NE S’APPLIQUE PAS ICI (Ed. Temps Présent, 2017) Mercredi 14 mars 2018 à 19h](/uploads/flyer_KarimaBennoune.pdf)
-
-[Le Fonds pour les Femmes en Méditerranée fête ses 10 ans!](http://www.medwomensfund.org/fr/Evenements_2018.html) 15 mars - Soirée des Ami.e.s du Fonds pour les Femmes en Méditerranée autour de notre invitée d'honneur Karima Bennoune qui donnera une conférence débat autour de son livre « Votre Fatwa ne s'applique pas ici ». La conférence sera suivie d'un pot convivial. Paris 12ème. [Soirée sur réservation uniquement](https://framaforms.org/reservation-rencontre-avec-karima-bennoune-1519728053).
+Des rencontres et débats auront lieu à ​Lille, ​Paris, Marseille, ​ Rennes​, ​Lyon, et encore Paris.
 
 
+##### 7 mars, Lille
+[autempslire.com](https://autempslire.com/)
+
+##### 9 mars, Paris,
+[Librairie le Divan](https://www.facebook.com/events/180344242732176/)
 
 
+##### 10 mars, Paris
+[Journée International des Droits des Femmes 2018](/uploads/Tract-10-mars-2018-Zumba-et-conference-debat.pdf)
 
 
+##### 12 mars, Marseille
+[Café des Femmes](https://www.karimabennoune.com/uploads/cafe-des-femmes-karima-bennoune-12-mars.pdf)
 
 
+##### 13 mars, Rennes
+[culturedelapaix.org](http://culturedelapaix.org/blogs/Rennes/2018/02/28/karima-bennoune-a-sciences-po-rennes-le-13-mars-2018/)
 
----
+##### 14 mars, Lyon
+[France Maghreb les chemins de la rencontre](https://www.karimabennoune.com/uploads/flyer_KarimaBennoune.pdf)
 
-##### Des articles
+##### 15 mars, Paris
+[Le Fonds pour les Femmes en Méditerranée fête ses 10 ans!](http://www.medwomensfund.org/fr/Evenements_2018.html)
 
-[Rencontre 05 11 17 Samia Messaoudi reçoit Karima Bennoune à l'occasion de la sortie de son livre Votre fatwa ne s'applique pas ici](/journal/2017/11/05/rencontre-05-11-17-6/)
-
-[« Votre Fatwa ne s’applique pas ici », les présumés musulmans aspirent aussi à la liberté](/journal/2017/10/26/Votre-Fatwa-sapplique-pas-ici-presumes-musulmans-aspirent-aussi-liberte/)
-
-[Ils résistent aux fondamentalistes islamistes](/journal/2017/10/22/portraits-resistants-fondamentalistes-islamistes-radicalisation/)
-
-[L’Algérie doit changer sa politique vis-à-vis des défenseurs des victimes du terrorisme](/articles/2015/03/21/karima-bennoune-l-algerie-doit-changer-sa-politique-vis-a-vis-des-defenseurs-des-victimes-du-terrorisme-20-03-2015-290308_109/)
-
-[Victimes du terrorisme : Ajouad Montréal contre l’amnésie organisée](/articles/2015/03/20/victimes-du-terrorisme-ajouad-montreal-contre-l-amnesie-organisee/)
-
-['SOIT DIT EN PASSANT: «Votre fatwa ne s’applique pas ici» !'](/journal/2017/10/26/soit-dit-en-passant-votre-fatwa-ne-s-applique-pas-ici/)
-
-
-[«ON REFUSE DE DONNER LA PAROlE AUX MUSUlMANS QUI LUTTENT CONTRE L’ISLAMISME»](/uploads/Charlie-Hebdo-KB.pdf)
+[Soirée sur réservation uniquement](https://framaforms.org/reservation-rencontre-avec-karima-bennoune-1519728053)
