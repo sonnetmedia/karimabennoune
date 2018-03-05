@@ -18,18 +18,15 @@ Elle dénonce également les discriminations subies par les musulmans depuis le 
 
 ##### Événements
 
-[Journée International des Droits des Femmes 2018 - 10 MARS 2018 - 14h CONFÉRENCE-DÉBAT AVEC KARIMA BENNOUNE](/uploads/Tract-10-mars-2018-Zumba-et-conference-debat.pdf)
+[Rencontre débat avec Karima Bennoune pour la parution de son ouvrage "Votre fatwa ne s'applique pas ici" paru aux éditions Temps Présent. Le vendredi 9 mars à partir de 19h ](https://www.facebook.com/events/180344242732176/)
 
+[Journée International des Droits des Femmes 2018 - 10 MARS 2018 - 14h CONFÉRENCE-DÉBAT AVEC KARIMA BENNOUNE](/uploads/Tract-10-mars-2018-Zumba-et-conference-debat.pdf)
 
 [CAFÉ DES FEMMES](/uploads/cafe-des-femmes-karima-bennoune-12-mars.pdf)
 
 [Rencontre avec Karima Bennoune autour de son livre VOTRE FATWA NE S’APPLIQUE PAS ICI (Ed. Temps Présent, 2017) Mercredi 14 mars 2018 à 19h](/uploads/flyer_KarimaBennoune.pdf)
 
-
-[Rencontre débat avec Karima Bennoune pour la parution de son ouvrage "Votre fatwa ne s'applique pas ici" paru aux éditions Temps Présent. Le vendredi 9 mars à partir de 19h ](https://www.facebook.com/events/180344242732176/)
-
-
-[Le Fonds pour les Femmes en Méditerranée fête ses 10 ans!](http://www.medwomensfund.org/fr/Evenements_2018.html) 15 mars - Soirée des Ami.e.s du Fonds pour les Femmes en Méditerranée autour de notre invitée d'honneur Karima Bennoune qui donnera une conférence débat autour de son livre « Votre Fatwa ne s'applique pas ici ». La conférence sera suivie d'un pot convivial. Paris 12ème. [Soirée sur réservation uniquement](https://framaforms.org/reservation-rencontre-avec-karima-bennoune-1519728053). 
+[Le Fonds pour les Femmes en Méditerranée fête ses 10 ans!](http://www.medwomensfund.org/fr/Evenements_2018.html) 15 mars - Soirée des Ami.e.s du Fonds pour les Femmes en Méditerranée autour de notre invitée d'honneur Karima Bennoune qui donnera une conférence débat autour de son livre « Votre Fatwa ne s'applique pas ici ». La conférence sera suivie d'un pot convivial. Paris 12ème. [Soirée sur réservation uniquement](https://framaforms.org/reservation-rencontre-avec-karima-bennoune-1519728053).
 
 
 
