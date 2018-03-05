@@ -18,6 +18,8 @@ Elle dénonce également les discriminations subies par les musulmans depuis le 
 
 ##### Événements
 
+[Au Temps Lire Mercredi 7 mars de 10h à 12h30 : Rencontre avec Karima Bennoune (sur inscription) auteure de Votre Fatwa ne s’applique pas ici aux éditions du Temps Présent](https://autempslire.com/).
+
 [Rencontre débat avec Karima Bennoune pour la parution de son ouvrage "Votre fatwa ne s'applique pas ici" paru aux éditions Temps Présent. Le vendredi 9 mars à partir de 19h ](https://www.facebook.com/events/180344242732176/)
 
 [Journée International des Droits des Femmes 2018 - 10 MARS 2018 - 14h CONFÉRENCE-DÉBAT AVEC KARIMA BENNOUNE](/uploads/Tract-10-mars-2018-Zumba-et-conference-debat.pdf)
