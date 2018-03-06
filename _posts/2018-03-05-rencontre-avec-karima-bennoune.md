@@ -1,5 +1,5 @@
 ---
-title: "Tour du livre"
+title: "Tournée du livre en France"
 category: appearances
 ---
 Karima Bennoune sera en France ​du 7​ au ​15 mars​,​ pour présenter son livre Votre Fatwa Ne S’Applique Pas Içi, paru ​récemment ​​aux éditions Temps Présent.   ​
@@ -31,4 +31,6 @@ Des rencontres et débats auront lieu à ​Lille, ​Paris, Marseille, ​ Renn
 ##### 15 mars, Paris
 [Le Fonds pour les Femmes en Méditerranée fête ses 10 ans!](http://www.medwomensfund.org/fr/Evenements_2018.html)
 
-[Soirée sur réservation uniquement](https://framaforms.org/reservation-rencontre-avec-karima-bennoune-1519728053)
+[Flyer](/uploads/event-flyer-mar-19.jpg)
+
+[Formulaire pour faire une reservation](https://framaforms.org/reservation-rencontre-avec-karima-bennoune-1519728053)
