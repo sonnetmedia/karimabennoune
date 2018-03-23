@@ -10,9 +10,13 @@ Elle dresse le portrait d’opposants aux fondamentalistes islamistes dans de no
 
 Elle dénonce également les discriminations subies par les musulmans depuis le 11 septembre 2001. Karima Bennoune est professeur de Droit à l’Université de Californie – Davis. Elle a grandi en Algérie, où son père, Mahfoud Bennoune, était un anthropologue réputé, menacé de mort à plusieurs reprises par les islamistes. Après la parution de son livre aux États-Unis, Karima Bennoune a été nommée Rapporteuse spéciale auprès des Nations Unies pour les droits culturels.
 
-[**Amazon.com**](https://www.amazon.fr/Votre-fatwa-sapplique-pas-ici/dp/2916842535/ref=sr_1_1?s=books&ie=UTF8&qid=1507802227&sr=1-1&keywords=karima+bennoune) [**Review**](http://evene.lefigaro.fr/livres/livre/karima-bennoune-votre-fatwa-ne-s-applique-pas-ici-5099879.php)
-
-###### [WOLE SOYINKA : « Votre fatwa ne s’appliquera jamais ici »](http://www.courrierdesafriques.net/2015/01/wole-soyinka-votre-fatwa-ne-sappliquera-jamais-ici)
+##### [**Amazon.com**](https://www.amazon.fr/Votre-fatwa-sapplique-pas-ici/dp/2916842535/ref=sr_1_1?s=books&ie=UTF8&qid=1507802227&sr=1-1&keywords=karima+bennoune) 
+---
+##### [**Review www.lefigaro.fr**](http://evene.lefigaro.fr/livres/livre/karima-bennoune-votre-fatwa-ne-s-applique-pas-ici-5099879.php)
+---
+##### [WOLE SOYINKA : « Votre fatwa ne s’appliquera jamais ici »](http://www.courrierdesafriques.net/2015/01/wole-soyinka-votre-fatwa-ne-sappliquera-jamais-ici)
+---
+##### [J’ai voulu offrir une tribune  à des gens qui n’en ont pas](/journal/2018/03/23/j-ai-voulu-offrir-une-tribune-a-des-gens-qui-n-en-ont-pas-23-03-2018-364955_113/)
 
 ---
 
