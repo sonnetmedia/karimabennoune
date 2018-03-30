@@ -6,6 +6,8 @@ link_to_original: http://www.elwatan.com/culture/j-ai-voulu-offrir-une-tribune-a
 category: journal
 ---
 
+[**Originally published at www.elwatan.com by Nadjia Bouzeghrane** ](http://www.elwatan.com/culture/j-ai-voulu-offrir-une-tribune-a-des-gens-qui-n-en-ont-pas-23-03-2018-364955_113.php)
+
 Pour présenter et faire connaître son livre, édité en France en octobre 2017, Karima Bennoune a effectué une tournée en France qui l’a conduite à Lille, Lyon, Marseille, Paris et Rennes grâce au réseau associatif progressiste. L’éditeur a indiqué qu’il n’y a pas eu de répondant de la part des médias français auxquels il a envoyé un exemplaire du livre, alors que certaines librairies ont refusé de recevoir l’auteure.
 
 Nous l’avons suivie à Rennes et à Paris. A Rennes, elle est intervenue à l’institut de Sciences politiques à l’invitation du Mouvement de la paix. A cette occasion, Roland Nivet, coordinateur du mouvement de la paix Bretagne, a rappelé la solidarité apportée aux militants de la démocratie et de la lutte anti-intégriste en Algérie pendant les années 1990 du Mouvement de la paix qui fête cette année son soixante-dizième anniversaire.
