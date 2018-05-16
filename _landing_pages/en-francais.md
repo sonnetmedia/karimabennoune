@@ -10,7 +10,7 @@ Elle dresse le portrait d’opposants aux fondamentalistes islamistes dans de no
 
 Elle dénonce également les discriminations subies par les musulmans depuis le 11 septembre 2001. Karima Bennoune est professeur de Droit à l’Université de Californie – Davis. Elle a grandi en Algérie, où son père, Mahfoud Bennoune, était un anthropologue réputé, menacé de mort à plusieurs reprises par les islamistes. Après la parution de son livre aux États-Unis, Karima Bennoune a été nommée Rapporteuse spéciale auprès des Nations Unies pour les droits culturels.
 
-##### [**Amazon.com**](https://www.amazon.fr/Votre-fatwa-sapplique-pas-ici/dp/2916842535/ref=sr_1_1?s=books&ie=UTF8&qid=1507802227&sr=1-1&keywords=karima+bennoune) 
+##### [**Amazon.com**](https://www.amazon.fr/Votre-fatwa-sapplique-pas-ici/dp/2916842535/ref=sr_1_1?s=books&ie=UTF8&qid=1507802227&sr=1-1&keywords=karima+bennoune)
 ---
 ##### [**Review www.lefigaro.fr**](http://evene.lefigaro.fr/livres/livre/karima-bennoune-votre-fatwa-ne-s-applique-pas-ici-5099879.php)
 ---
@@ -22,35 +22,10 @@ Elle dénonce également les discriminations subies par les musulmans depuis le 
 
 ### Événements
 
-Karima Bennoune sera en France ​du 7​ au ​15 mars​,​ pour présenter son livre Votre Fatwa Ne S’Applique Pas Içi, paru ​récemment ​​aux éditions Temps Présent.   ​
+Karima Bennoune fera une deuxième tournée en France entre le 25 mai et le 2 juin pour présenter son livre Votre Fatwa Ne S’Applique Pas Içi, avec des débats  prévus à Rouen, Toulouse, Grasse et Paris entre autre.  Les détails seront disponibles sur ce site prochainement.
 
-Des rencontres et débats auront lieu à ​Lille, ​Paris, Marseille, ​ Rennes​, ​Lyon, et encore Paris.
+##### 25 mai, Rouen
+Détails prochainement
 
-
-##### 7 mars, Lille
-[autempslire.com](https://autempslire.com/)
-
-##### 9 mars, Paris,
-[Librairie le Divan](https://www.facebook.com/events/180344242732176/)
-
-
-##### 10 mars, Paris
-[Journée International des Droits des Femmes 2018](/uploads/Tract-10-mars-2018-Zumba-et-conference-debat.pdf)
-
-
-##### 12 mars, Marseille
-[Café des Femmes](https://www.karimabennoune.com/uploads/cafe-des-femmes-karima-bennoune-12-mars.pdf)
-
-
-##### 13 mars, Rennes
-[culturedelapaix.org](http://culturedelapaix.org/blogs/Rennes/2018/02/28/karima-bennoune-a-sciences-po-rennes-le-13-mars-2018/)
-
-##### 14 mars, Lyon
-[France Maghreb les chemins de la rencontre](https://www.karimabennoune.com/uploads/flyer_KarimaBennoune.pdf)
-
-##### 15 mars, Paris
-[Le Fonds pour les Femmes en Méditerranée fête ses 10 ans!](http://www.medwomensfund.org/fr/Evenements_2018.html)
-
-[Flyer](/uploads/event-flyer-mar-19.jpg)
-
-[Formulaire pour faire une reservation](https://framaforms.org/reservation-rencontre-avec-karima-bennoune-1519728053)
+##### 26 mai, Toulouse
+[Librairie Ellipses](http://librairie-ellipses.com/?wysija-page=1&controller=email&action=view&email_id=18)

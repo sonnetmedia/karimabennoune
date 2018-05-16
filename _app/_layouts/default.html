@@ -17,8 +17,7 @@
       <meta name="MobileOptimized" content="320">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-              <!-- TODO: make correct URL for rss -->
-      <link rel="alternate" type="application/rss+xml" href="/rss" title="RSS Feed">
+      <link rel="alternate" type="application/rss+xml" href="/atom.xml" title="RSS Feed">
 
       <title>{% if page.title %} {{page.title}} - {% endif %} {{site.sitename}}</title>
       {% if page.url %}
@@ -29,11 +28,11 @@
           <!-- Stylesheets -->
 
         <link href='/assets/css/screen.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
-    
 
 
 
-      
+
+
 
 
       <!--[if lt IE 9]>
@@ -57,13 +56,13 @@
       {% include global/analytics.html %}
       {% include global/seo.html %}
     {% endif %}
-    
+
   </head>
 
 <body class="{{page.category | replace: ' ','-' | downcase}}{{page.categories | first}}">
   <div class="wrapper">
     {% if site.include_nav-top %}
-      {% include nav/nav-top.html %}      
+      {% include nav/nav-top.html %}
     {% endif %}
     {% if site.include_nav-side-left %}
       {% include nav/nav-side-left.html %}
@@ -80,4 +79,3 @@
 {% include global/scripts.html %}
 </body>
 </html>
-
