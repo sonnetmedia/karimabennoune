@@ -25,7 +25,14 @@ Elle dénonce également les discriminations subies par les musulmans depuis le 
 Karima Bennoune fera une deuxième tournée en France entre le 25 mai et le 2 juin pour présenter son livre Votre Fatwa Ne S’Applique Pas Içi, avec des débats  prévus à Rouen, Toulouse, Grasse et Paris entre autre.  Les détails seront disponibles sur ce site prochainement.
 
 ##### 25 mai, Rouen
-Détails prochainement
+
+* Auditorium de la médiathèque Simone de Beauvoir à 18h : conférence-débat "Un combat universel contre le fondamentalisme et pour les droits humains"
+
+**[Télécharger le flyer au format PDF](/uploads/french-tour-2018/2018-05-26-conference-Karima-Bennoune-Rouen.pdf "Conférence Rouen")**
 
 ##### 26 mai, Toulouse
-[Librairie Ellipses](http://librairie-ellipses.com/?wysija-page=1&controller=email&action=view&email_id=18)
+
+* Histoires non-dites de la lutte contre l'intégrisme - La Chapelle / L'Atelier Idéal : 14H30 - 16H30
+* [Librairie Ellipses](http://librairie-ellipses.com/?wysija-page=1&controller=email&action=view&email_id=18) : 18H - 19h30
+
+**[Télécharger le flyer au format PDF](/uploads/french-tour-2018/2018-05-26-rencontres-avec-Karima Bennoune-Chapelle-Ellipses/pdf "Rencontres Toulouse")**
