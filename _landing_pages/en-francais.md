@@ -35,4 +35,4 @@ Karima Bennoune fera une deuxième tournée en France entre le 25 mai et le 2 ju
 * Histoires non-dites de la lutte contre l'intégrisme - La Chapelle / L'Atelier Idéal : 14H30 - 16H30
 * [Librairie Ellipses](http://librairie-ellipses.com/?wysija-page=1&controller=email&action=view&email_id=18) : 18H - 19h30
 
-**[Télécharger le flyer au format PDF](/uploads/french-tour-2018/2018-05-26-rencontres-avec-Karima Bennoune-Chapelle-Ellipses/pdf "Rencontres Toulouse")**
+**[Télécharger le flyer au format PDF](/uploads/french-tour-2018/2018-05-26-rencontres-avec-Karima Bennoune-Chapelle-Ellipses.pdf "Rencontres Toulouse")**
