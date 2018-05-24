@@ -40,7 +40,7 @@ Auditorium de la médiathèque Simone de Beauvoir à 18h : conférence-débat "U
 
 ##### 1er Juin, Paris
 
-Bourse du Travail à 18h30 : dans la cadre du cycle **l'Universalisme est-il ringard ?** _Deuxième partie : La place centrale de la Résistance contre les fondamentalismes et l'intégrisme_.
+Bourse du Travail à 18h30 : dans la cadre du cycle **l'Universalisme est-il ringard ?** _Deuxième partie : La place centrale de la Résistance contre les fondamentalismes et l’intégrisme_.
 
 **Inscription**: [clcs@combat-laique-social.org](mailto:clcs@combat-laique-social.org?subject=Conférence%20Karima%20Bennoune)
 
