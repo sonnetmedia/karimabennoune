@@ -37,6 +37,12 @@ Auditorium de la médiathèque Simone de Beauvoir à 18h : conférence-débat "U
 
 **[Télécharger le flyer au format PDF](/uploads/french-tour-2018/2018-05-26-rencontres-avec-Karima Bennoune-Chapelle-Ellipses.pdf "Rencontres Toulouse")**
 
+##### 29 mai, Grasse
+
+ - Rencontre et débat à 18h30 à la Villa Fragonard (entrée libre)
+   Séance de dédicaces à l'issue de la conférence.
+
+**[Télécharger le dossier de presse](/uploads/french-tour-2018/2018-05-karima-bennoune-grasse.pdf "Rencontre Karima Bennoune à Grasse")**
 
 ##### 1er Juin, Paris
 
