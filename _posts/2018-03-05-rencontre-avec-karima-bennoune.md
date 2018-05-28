@@ -33,4 +33,4 @@ Des rencontres et débats auront lieu à ​Lille, ​Paris, Marseille, ​ Renn
 
 [Flyer](/uploads/event-flyer-mar-19.jpg)
 
-[Formulaire pour faire une reservation](https://framaforms.org/reservation-rencontre-avec-karima-bennoune-1519728053)
+**[Formulaire pour faire une reservation](https://framaforms.org/reservation-rencontre-avec-karima-bennoune-1519728053)**
