@@ -51,8 +51,10 @@ Auditorium de la médiathèque Simone de Beauvoir à 18h : conférence-débat "U
 
 ##### 1er Juin, Paris
 
-Bourse du Travail à 18h30 : dans la cadre du cycle **l'Universalisme est-il ringard ?** _Deuxième partie : La place centrale de la Résistance contre les fondamentalismes et l’intégrisme_.
+**Changement de lieu pour plus de commodités**
 
-**Inscription**: [clcs@combat-laique-social.org](mailto:clcs@combat-laique-social.org?subject=Conférence%20Karima%20Bennoune)
+Rencontre et débat à 18h30 avec Karima Bennoune : _La place centrale de la Résistance contre les fondamentalismes et l’intégrisme_.
 
-**[Télécharger le flyer au format PDF](/uploads/french-tour-2018/2018-06-01-conference-bourse-du-travail.pdf "Conférence à la Bourse du Travail, Paris")**
+ - Lieu: [**12-18 rue Sergent Bauchat 75012 Paris**](https://goo.gl/maps/VjrMzK8udk22)
+ - **Salle**: Tourelle A
+ - **Métro**: Ligne 8 station Montgallet ou Ligne 1 station Reuilly Diderot.
