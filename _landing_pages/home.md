@@ -8,9 +8,4 @@ category: home
 show_content: true
 ---
 
-
-##### Karima Bennoune fera une deuxième tournée en France entre le 25 mai et le 2 juin pour présenter son livre _Votre Fatwa ne s’applique pas içi_, avec des débats  prévus à Rouen, Toulouse, Grasse et Paris entre autre.  [Plus de détails]({% post_url 2018-05-28-tournee-en-france %}).
-
----
-
-[Votre Fatwa ne s'appique pas ici](/en-francais/)
+## [Votre Fatwa ne s'appique pas ici](/en-francais/)

@@ -14,6 +14,10 @@ Elle dénonce également les discriminations subies par les musulmans depuis le 
 
 ### Revues du livre
 
+##### [« Contre le terrorisme et l'intégrisme, les luttes populaires »](/assets/files/Karima-Bennoune-LHumanite-507-18.pdf)
+
+---
+
 ##### [« Votre fatwa ne s'applique pas ici : Histoires inédites de la lutte contre le fondamentalisme musulman » sur Amazon](https://www.amazon.fr/Votre-fatwa-sapplique-pas-ici/dp/2916842535/ref=sr_1_1?s=books&ie=UTF8&qid=1507802227&sr=1-1&keywords=karima+bennoune)
 ---
 ##### [Revue sur Le Figaro](http://evene.lefigaro.fr/livres/livre/karima-bennoune-votre-fatwa-ne-s-applique-pas-ici-5099879.php)
