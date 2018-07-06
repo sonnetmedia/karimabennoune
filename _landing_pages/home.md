@@ -8,4 +8,4 @@ category: home
 show_content: true
 ---
 
-## [Votre Fatwa ne s'appique pas ici](/en-francais/)
+## [Votre Fatwa ne s'applique pas ici](/en-francais/)
