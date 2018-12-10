@@ -29,6 +29,9 @@ Elle dénonce également les discriminations subies par les musulmans depuis le 
 ##### [« L’hymne à la vie des musulmans qui combattent le djihadisme » par Paul Euzière, President, Festival TransMéditerranée](https://pauleuziere.wordpress.com/2018/05/27/votre-fatwa-ne-sapplique-pas-ici-de-karima-bennoune-lhymne-a-la-vie-des-musulmans-qui-combattent-le-djihadisme/)
 ---
 
+##### [Podcast: « l’invincible résistance au fondamentalisme islamiste »](/journal/2018/12/08/karima-bennoune-linvincible-resistance-au-fondamentalisme-islamiste/)
+---
+
 ### Événements
 
 Karima Bennoune fait une deuxième tournée en France entre le 25 mai et le 2 juin pour présenter son livre _Votre Fatwa Ne S’Applique Pas Içi_, avec des débats  prévus à Rouen, Toulouse, Grasse et Paris entre autres.
