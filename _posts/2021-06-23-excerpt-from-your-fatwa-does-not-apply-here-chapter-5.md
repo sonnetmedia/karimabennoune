@@ -10,6 +10,6 @@ June 24, 2021 is the 25th anniversary of the assassinations of lawyer Leila Khed
 
 [Download Excerpt](/uploads/Kheddar-Excerpt-YFDNAH.pdf)
 
-!()[/uploads/image-1.png]
+![Mrs. Kheddar at the grave](/uploads/image-1.png)
 
-!()[/uploads/image.png]
+![Mohammed Redha Kheddar and Leila Kheddar](/uploads/image.png)
