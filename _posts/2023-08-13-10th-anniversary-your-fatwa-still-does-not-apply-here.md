@@ -1,5 +1,5 @@
 ---
-title: "Tenth Anniversary of Your Fatwa Still Does Not Apply Here"
+title: "Tenth Anniversary of Your Fatwa Does Not Apply Here"
 date: 2023-08-11 00:00:00
 category: journal
 tags:
