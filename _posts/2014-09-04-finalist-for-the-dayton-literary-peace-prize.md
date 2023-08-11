@@ -1,7 +1,8 @@
 ---
 title: "Finalist for the Dayton Literary Peace Prize"
 layout: page
-category: the-book
+#category: the-book
+category: journal
 featured_home: true
 ---
 *Your Fatwa Does Not Apply Here* is a finalist for the Dayton Literary Peace Prize. The Dayton Literary Peace Prize honors writers whose work uses the power of literature to foster peace, social justice, and global understanding.

@@ -1,6 +1,6 @@
 ---
 title: "J’ai voulu offrir une tribune à des gens qui n’en ont pas"
-category: appearances
+# category: appearances
 tags: "français"
 link_to_original: http://www.elwatan.com/culture/j-ai-voulu-offrir-une-tribune-a-des-gens-qui-n-en-ont-pas-23-03-2018-364955_113.php
 category: journal

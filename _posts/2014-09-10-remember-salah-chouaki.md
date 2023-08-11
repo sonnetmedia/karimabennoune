@@ -1,7 +1,7 @@
 ---
 title: Remember Salah Chouaki
 layout: page
-category: null
+category: articles
 published: true
 ---
 

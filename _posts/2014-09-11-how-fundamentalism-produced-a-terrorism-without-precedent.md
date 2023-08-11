@@ -1,7 +1,7 @@
 ---
 title: "Regarding *How Fundamentalism Produced a Terrorism without precedent*"
 layout: page
-category: null
+category: articles
 published: true
 ---
 
